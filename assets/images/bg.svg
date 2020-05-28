@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="788" viewBox="0 0 390 788">
+    <defs>
+        <filter id="prefix__b" width="113.3%" height="106.3%" x="-6.7%" y="-2.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.247058824 0 0 0 0 0.274509804 0 0 0 0 0.984313725 0 0 0 0.19017701 0"/>
+        </filter>
+        <filter id="prefix__f" width="106.3%" height="106.3%" x="-3.2%" y="-2.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.247058824 0 0 0 0 0.274509804 0 0 0 0 0.984313725 0 0 0 0.19017701 0"/>
+        </filter>
+        <filter id="prefix__i" width="105%" height="105.9%" x="-2.5%" y="-2.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.247058824 0 0 0 0 0.274509804 0 0 0 0 0.984313725 0 0 0 0.19017701 0"/>
+        </filter>
+        <linearGradient id="prefix__c" x1="60.42%" x2="41.605%" y1="-58.874%" y2="100%">
+            <stop offset="0%" stop-color="#181EBE"/>
+            <stop offset="100%" stop-color="#412BCF"/>
+        </linearGradient>
+        <linearGradient id="prefix__g" x1="96.115%" x2="12.583%" y1="-58.258%" y2="100%">
+            <stop offset="0%" stop-color="#4A7474"/>
+            <stop offset="100%" stop-color="#2F5D5D"/>
+        </linearGradient>
+        <path id="prefix__a" d="M0.5 0H360.5V760H0.5z"/>
+        <path id="prefix__j" d="M1074.517 1416.765c-88.557-185.31-38.223-307.79 151.003-367.445 189.226-59.655 297.29-185.794 324.191-378.419l441.458 45.401-78.4 656.141-188.04 108.29-558.35-16.697-91.862-47.27z"/>
+        <rect id="prefix__e" width="760" height="760" x="0" y="0" rx="20"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(14.5 8)">
+        <mask id="prefix__d" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="#000" filter="url(#prefix__b)" xlink:href="#prefix__a"/>
+        <use fill="url(#prefix__c)" xlink:href="#prefix__a"/>
+        <use fill="#1E0F81" xlink:href="#prefix__a"/>
+        <g mask="url(#prefix__d)">
+            <g transform="translate(-200.5)">
+                <mask id="prefix__h" fill="#fff">
+                    <use xlink:href="#prefix__e"/>
+                </mask>
+                <use fill="#000" filter="url(#prefix__f)" xlink:href="#prefix__e"/>
+                <use fill="url(#prefix__g)" xlink:href="#prefix__e"/>
+                <g mask="url(#prefix__h)">
+                    <g>
+                        <g opacity=".05" transform="translate(-679.172 -484.995) rotate(15 1511.67 1075.817)">
+                            <use fill="#000" filter="url(#prefix__i)" xlink:href="#prefix__j"/>
+                            <use fill="#FFF" xlink:href="#prefix__j"/>
+                        </g>
+                        <path fill="#FFF" d="M1104.276 168.524c90.875 189.976 39.277 315.517-154.794 376.623-194.07 61.105-304.88 190.382-332.427 387.83L164.25 886.334l80.259-672.573L437.354 102.8l572.69 17.247 94.232 48.477z" opacity=".048" transform="translate(-679.172 -484.995)"/>
+                        <path fill="#FFF" d="M1036.73 87.977c172.064 168.812 165.756 324.049-18.924 465.71-184.68 141.66-253.17 324.08-205.472 547.26l-504.978 126.975-177.07-754.917 163.842-194.812 622.333-205.5 120.27 15.284zM1077.213 1342.278c-77.43-162.35-33.466-269.633 131.894-321.853 165.36-52.22 259.776-162.696 283.248-331.43l385.817 39.86-68.386 574.764-164.315 94.825-487.967-14.739-80.29-41.427z" opacity=".048" transform="translate(-679.172 -484.995)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

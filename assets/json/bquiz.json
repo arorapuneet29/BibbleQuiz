@@ -1,0 +1,26 @@
+[
+  {
+    "question": "my name is?",
+    "questionNo": 1,
+    "options": ["a", "b", "c", "d"],
+    "correct": 0
+  },
+  {
+    "question": "my father name is?",
+    "questionNo": 2,
+    "options": ["1", "2", "3", "4"],
+    "correct": 1
+  },
+  {
+    "question": "my mother name is?",
+    "questionNo": 3,
+    "options": ["pp", "dd", "ff", "gg"],
+    "correct": 2
+  },
+  {
+    "question": "my sister name is?",
+    "questionNo": 4,
+    "options": ["x", "y", "z", "zz"],
+    "correct": 3
+  }
+]
