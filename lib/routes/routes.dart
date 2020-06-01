@@ -1,3 +1,4 @@
+import 'package:Bquiz/pages/end_screen.dart';
 import 'package:Bquiz/pages/lang_screen.dart';
 import 'package:Bquiz/pages/question_screen.dart';
 import 'package:Bquiz/pages/start_playing.dart';
@@ -13,6 +14,7 @@ class Routes {
      '/lang': (BuildContext context) => LangScreen(),
       '/startPlaying': (BuildContext context) => StartPlaying(),
        '/questionScreen': (BuildContext context) => QuestionScreen(),
+        '/endPlaying': (BuildContext context) => EndPlaying(),
 
     };
   }

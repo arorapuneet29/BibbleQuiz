@@ -26,7 +26,7 @@ class GlobePrimaryButton extends StatelessWidget {
               child: Text(
                 buttonLabel,
                 style: TextStyle(
-                    fontFamily: 'AvenirNext',
+                    fontFamily: 'BebasNeue',
                     fontSize: 18,
                     color: Color(0xff212121),
                     fontWeight: FontWeight.bold),

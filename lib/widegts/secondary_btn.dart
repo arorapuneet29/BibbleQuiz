@@ -31,8 +31,8 @@ class GlobeSecondaryButton extends StatelessWidget {
               child: Text(
                 buttonLabel,
                 style: TextStyle(
-                    fontFamily: 'AvenirNext',
-                    fontSize: 18,
+                    fontFamily: 'BebasNeue',
+                    fontSize: 14,
                     color: color,
                     fontWeight: FontWeight.bold),
               ),
