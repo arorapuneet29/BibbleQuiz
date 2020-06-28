@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:Bquiz/widegts/primary_btn.dart';
 import 'package:Bquiz/widegts/secondary_btn.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class LangScreen extends StatefulWidget {
   @override
@@ -8,19 +9,36 @@ class LangScreen extends StatefulWidget {
 }
 
 class _LangScreenState extends State<LangScreen> {
-  int selected;
+  int _selected;
 
   @override
   void initState() {
     super.initState();
+    setDataLocal();
+  }
+
+  void setDataLocal() async {
+    final SharedPreferences prefs = await SharedPreferences.getInstance();
+
+    if (!prefs.containsKey('correctAns')) {
+      prefs.setString('correctAns', "0");
+      prefs.setString('questionNo', "0");
+      prefs.setString('lang', "0");
+    }
+  }
+
+  void navigate() async {
+    final SharedPreferences prefs = await SharedPreferences.getInstance();
+    await prefs.setString('lang', '$_selected');
+    Navigator.pushNamed(context, '/startPlaying', arguments: "$_selected");
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
         body: Container(
-          width:double.infinity,
-          padding: EdgeInsets.fromLTRB(0, 60, 0, 50),
+            width: double.infinity,
+            padding: EdgeInsets.fromLTRB(0, 60, 0, 50),
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: AssetImage("assets/images/bg.png"),
@@ -50,14 +68,13 @@ class _LangScreenState extends State<LangScreen> {
                     child: GlobeSecondaryButton(
                       onPressed: () {
                         setState(() {
-                          selected = 0;
+                          _selected = 0;
                         });
-                        print(selected);
                       },
-                      bgColor: (selected != null && selected == 0)
+                      bgColor: (_selected != null && _selected == 0)
                           ? Colors.white
                           : Color(0xff3a6666),
-                      color: (selected != null && selected == 0)
+                      color: (_selected != null && _selected == 0)
                           ? Colors.black
                           : Colors.white,
                       buttonLabel: "ENGLISH",
@@ -69,15 +86,14 @@ class _LangScreenState extends State<LangScreen> {
                     child: GlobeSecondaryButton(
                       onPressed: () {
                         setState(() {
-                          selected = 1;
+                          _selected = 1;
                         });
-                        print(selected);
                       },
                       buttonLabel: "SPANISH",
-                      bgColor: (selected != null && selected == 1)
+                      bgColor: (_selected != null && _selected == 1)
                           ? Colors.white
                           : Color(0xff3a6666),
-                      color: (selected != null && selected == 1)
+                      color: (_selected != null && _selected == 1)
                           ? Colors.black
                           : Colors.white,
                     ),
@@ -89,14 +105,14 @@ class _LangScreenState extends State<LangScreen> {
                         right: 24, left: 24, bottom: 20, top: 10),
                     child: GlobePrimaryButton(
                       onPressed: () {
-                        if (selected != null) {
-                          Navigator.pushNamed(context, '/startPlaying',arguments:"$selected");
+                        if (_selected != null) {
+                          navigate();
                         }
                       },
                       buttonLabel: "NEXT",
-                      bg: (selected != null)
+                      bg: (_selected != null)
                           ? Color(0xfff1ad62)
-                          : Color(0xfff1ad62).withOpacity(0.2),
+                          : Color(0xff868567),
                     ),
                   ),
                 ]),

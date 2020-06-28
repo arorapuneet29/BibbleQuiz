@@ -1,43 +1,3853 @@
+
 [
   {
-    "question": "Por lo tanto, si algún hombre está en Cristo, él es una nueva criatura: las cosas viejas han pasado; he aquí, todas las cosas se vuelven nuevas.",
+    "question": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
     "questionNo": 1,
     "options": [
-      "2 Corintios 5:17",
-      "1 Corintios 5:17",
-      "2 Corintios 3:19",
-      "2 Corintios 3:17"
+      "Juan 3:16",
+      "Juan 4:16",
+      "Juan 16:3",
+      "Juan 5:16"
     ],
     "correct": 0
   },
   {
-    "question": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+    "question": "EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.",
     "questionNo": 2,
-    "options": ["Hebrew 1:11", "Hebrew 11:1", "Hebrew 2:1", "Hebrew 1:2"],
+    "options": [
+      "Juan 1:11",
+      "Lukas 1:1",
+      "Marcos 1:1",
+      "Juan 1:1"
+    ],
     "correct": 1
   },
   {
-    "question": "my mother name is?",
+    "question": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.",
     "questionNo": 3,
-    "options": ["pp", "dd", "ff", "gg"],
-    "correct": 2
-  },
-  {
-    "question": "my sister name is?",
-    "questionNo": 4,
-    "options": ["x", "y", "z", "zz"],
+    "options": [
+      "Juan 6:14",
+      "Marcos 14:6",
+      "Juan 14:6",
+      "Juan 1:11"
+    ],
     "correct": 3
   },
   {
-    "question": "my fsfs name is?",
-    "questionNo": 5,
-    "options": ["x", "y", "z", "zz"],
+    "question": "Por tanto, id, y haced discípulos a todos las naciones, bautizándoles en el nombre del Padre, y del Hijo, y del Espíritu Santo.",
+    "questionNo": 4,
+    "options": [
+      "Mateo 19:28",
+      "Mateo 28:19",
+      "Mateo 8:19",
+      "Mateo 19:8"
+    ],
     "correct": 1
   },
   {
-    "question": "my sigregster name is?",
+    "question": "por cuanto todos pecaron, y están destituidos de la gloria de Dios.",
+    "questionNo": 5,
+    "options": [
+      "Romanos 3:23",
+      "Romanos 23:23",
+      "Romanos 23:3",
+      "Romanos 3:2"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Porque por gracia sois salvos por medio de la fe, y esto no de vosotros; pues es don de Dios.",
     "questionNo": 6,
-    "options": ["x", "y", "z", "zz"],
+    "options": [
+      "Efesios 2:8",
+      "Efesios 8:2",
+      "Efesios 2:1J",
+      "Efesios 8:17"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "EN el principio creó Dios los cielos y la tierra.",
+    "questionNo": 7,
+    "options": [
+      "Genesis 1:11",
+      "Genesis 11:1",
+      "Genesis 1:1",
+      "Genesis 1:12"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Toda Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia.",
+    "questionNo": 8,
+    "options": [
+      "Romans 3:23",
+      "Romans 23:23",
+      "Romans 23:3",
+      "Romans 3:2"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Porque la paga del pecado es muerte; mas la dádiva de Dios es vida eterna en Cristo Jesús nuestro Señor.",
+    "questionNo": 9,
+    "options": [
+      "Romanos 6:21",
+      "Romanos 5:23",
+      "Romanos 6:23",
+      "Romanos 3:23"
+    ],
     "correct": 2
+  },
+  {
+    "question": "Y sabemos que todas las cosas ayudan a bien, a los que aman a Dios, a los que conforme a su propósito son llamados.",
+    "questionNo": 10,
+    "options": [
+      "Romanos 8:28",
+      "Romanos 8:22",
+      "Romanos 5:28",
+      "Romans 2:22"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mas Dios encarece su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros.",
+    "questionNo": 11,
+    "options": [
+      "Romanos 5:3",
+      "Romanos 5:8",
+      "Romanos 3:8",
+      "Romans 2:12"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Y Jesús vino y les habló, diciendo: Toda potestad me es dada en el cielo y en la tierra.",
+    "questionNo": 12,
+    "options": [
+      "Mateo 28:19",
+      "Mateo 28:11",
+      "Mateo 8:19",
+      "Matthew 28:18"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Respondió Jesús, y le dijo: De cierto, de cierto te digo: El que no naciere de nuevo, no puede ver el reino de Dios.",
+    "questionNo": 13,
+    "options": [
+      "John 5:10",
+      "John 2:13",
+      "John 13:3",
+      "John 3:3"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura.",
+    "questionNo": 14,
+    "options": [
+      "Marcos 16:15",
+      "Marcos 15:16",
+      "Marcos 5:16",
+      "Mark 10:16"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "El ladrón no viene sino para hurtar, y matar, y destruir; yo he venido para que tengan vida, y la tengan en abundancia.",
+    "questionNo": 15,
+    "options": [
+      "John 10:20",
+      "John 11:8",
+      "John 10:10",
+      "John 8:20"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Y en ningún otro hay salvación; porque no hay otro nombre debajo del cielo, dado a los hombres, en que debamos ser salvos.",
+    "questionNo": 16,
+    "options": [
+      "Hechos 12:4",
+      "Hechos 6:12",
+      "Hechos 4:12",
+      "Acts 8:10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones.",
+    "questionNo": 17,
+    "options": [
+      "Hechos 15:4",
+      "Hechos 2:42",
+      "Hechos 8:17",
+      "Acts 2:27"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe.",
+    "questionNo": 18,
+    "options": [
+      "Gálatas 5:22",
+      "Gálatas 5:12",
+      "Gálatas 4:20",
+      "Galatians 3:22"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Fíate de Jehová de todo tu corazón, y no estribes en tu propia prudencia.",
+    "questionNo": 19,
+    "options": [
+      "Proverbios 5:3",
+      "Proverbios 3:1",
+      "Proverbios 2:5",
+      "Proverbs 3:5"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+    "questionNo": 20,
+    "options": [
+      "Jeremias 11:2",
+      "Jeremias 9:11",
+      "Jeremias 29:11",
+      "Jeremiah 11:9"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "NO se turbe vuestro corazón; creéis en Dios, creed también en mí.",
+    "questionNo": 21,
+    "options": [
+      "John 14:1",
+      "John 1:14",
+      "John 14:11",
+      "John 4:1"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Por tanto, como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y así la muerte pasó a todos los hombres, por cuanto todos pecaron.",
+    "questionNo": 22,
+    "options": [
+      "Romanos 2:5",
+      "Romanos 5:12",
+      "Romanos 12:2",
+      "Romans 2:12"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "questionNo": 23,
+    "options": [
+      "Mateo 11:28",
+      "Mateo 20:30",
+      "Mateo 2:18",
+      "Matthew 28:18"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "JUSTIFICADOS, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo.",
+    "questionNo": 24,
+    "options": [
+      "Romanos 1:10",
+      "Romanos 5:5",
+      "Romanos 5:1",
+      "Romans 10:10"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.",
+    "questionNo": 25,
+    "options": [
+      "Genesis 5:27",
+      "Genesis 16:4",
+      "Genesis 24:5",
+      "Genesis 1:27"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Porque no me avergüenzo del evangelio de Cristo; porque es el poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego.",
+    "questionNo": 26,
+    "options": [
+      "Romanos 16:5",
+      "Romanos 1:16",
+      "Romanos 6:15",
+      "Romans 6:6"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad.",
+    "questionNo": 27,
+    "options": [
+      "1 John 5:10",
+      "1 John 1:9",
+      "1 John 6:15",
+      "1 John 9:5"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Y CUANDO se cumplieron los días de Pentecostés, estaban todos unánimes en un mismo lugar.",
+    "questionNo": 28,
+    "options": [
+      "Hechos 2:11",
+      "Hechos 5:51",
+      "Hechos 10:21",
+      "Acts 2:23"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.",
+    "questionNo": 29,
+    "options": [
+      "2 Corintios 7:12",
+      "2 Corintios 7:21",
+      "2 Corintios 9:25",
+      "2 Corinthians 5:17"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "ES, pues, la fe, la sustancia de las cosas que se esperan, la demostración de lo que no se ve.",
+    "questionNo": 30,
+    "options": [
+      "Hebrews 1:11",
+      "Hebrews 12:11",
+      "Hebrews 11:12",
+      "Hebrews 2:12"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que traza bien la palabra de verdad.",
+    "questionNo": 31,
+    "options": [
+      "2 Timothy 2:5",
+      "2 Timothy 5:22",
+      "2 Timothy 4:5",
+      "2 Timothy 2:15"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "AHORA, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu.",
+    "questionNo": 32,
+    "options": [
+      "Romanos 8:12",
+      "Romanos 11:6",
+      "Romanos 5:24",
+      "Romanos 4:22"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Porque todo aquel que invocare el nombre del Señor, será salvo.",
+    "questionNo": 33,
+    "options": [
+      "Romanos 13:11",
+      "Romanos 3:1",
+      "Romanos 10:13",
+      "Romanos 10:33"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "y conoceréis la verdad, y la verdad os hará libres.",
+    "questionNo": 34,
+    "options": [
+      "Juan 4:8",
+      "Juan 8:32",
+      "Juan 3:28",
+      "Juan 2:14"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si me amáis, guardad mis mandamientos;.",
+    "questionNo": 35,
+    "options": [
+      "Juan 4:11",
+      "Juan 11:5",
+      "Juan 5:10",
+      "Juan 14:15"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Oye, Israel: Jehová nuestro Dios, Jehová uno es.",
+    "questionNo": 36,
+    "options": [
+      "Deuteronomio 2:8",
+      "Deuteronomio 3:7",
+      "Deuteronomio 6:4",
+      "Deuteronomio 4:2"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis unos a otros.",
+    "questionNo": 37,
+    "options": [
+      "Juan 13:34",
+      "Juan 8:12",
+      "Juan 12:3",
+      "Juan 4:3"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren.",
+    "questionNo": 38,
+    "options": [
+      "Juan 2:12",
+      "Juan 3:24",
+      "Juan 4:14",
+      "Juan 4:24"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Todo lo puedo en Cristo que me fortalece.",
+    "questionNo": 39,
+    "options": [
+      "Filipenses 3:12",
+      "Filipenses 4:13",
+      "Filipenses 4:11",
+      "Filipenses 3:13"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "y yo rogaré al Padre, y él os dará otro consolador, para que esté con vosotros para siempre.",
+    "questionNo": 40,
+    "options": [
+      "Juan 3:14",
+      "Juan 14:16",
+      "Juan 6:16",
+      "Juan 6:4"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Y la tierra estaba desadornada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.",
+    "questionNo": 41,
+    "options": [
+      "Génesis 1:2",
+      "Génesis 2:1",
+      "Génesis 1:5",
+      "Génesis 2:7"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Confesaos vuestras faltas unos a otros, y rogad los unos por los otros, para que seáis sanados. La oración eficaz del justo, puede mucho.",
+    "questionNo": 42,
+    "options": [
+      "Santiago 6:5",
+      "Santiago 1:15",
+      "Santiago 5:16",
+      "Santiago 7:5"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Por tanto el mismo Señor os dará señal: He aquí que la virgen concebirá, y dará a luz un hijo, y llamará su nombre Emmanuel.",
+    "questionNo": 43,
+    "options": [
+      "Isaías 2:7",
+      "Isaías 4:17",
+      "Isaías 1:17",
+      "Isaías 7:14"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios.",
+    "questionNo": 44,
+    "options": [
+      "Juan 2:5",
+      "Juan 3:5",
+      "Juan 1:7",
+      "Juan 2:7"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús.",
+    "questionNo": 45,
+    "options": [
+      "Filipenses 2:5",
+      "Filipenses 1:6",
+      "Filipenses 2:3",
+      "Filipenses 1:2"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y suplica, con acción de gracias.",
+    "questionNo": 46,
+    "options": [
+      "Filipenses 1:6",
+      "Filipenses 3:4",
+      "Filipenses 4:6",
+      "Filipenses 2:8"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fue hecho.",
+    "questionNo": 47,
+    "options": [
+      "",
+      "",
+      "",
+      "Juan 1:3"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Y yo también te digo que tú eres Pedro, y sobre esta roca edificaré mi iglesia, y las puertas del infierno no prevalecerán contra ella.",
+    "questionNo": 48,
+    "options": [
+      "Mateo 16:18",
+      "Mateo 12:6",
+      "Mateo 5:17",
+      "Mateo 9:18"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar sino para cumplir.",
+    "questionNo": 49,
+    "options": [
+      "Mateo 5:17",
+      "Mateo 1:5",
+      "Mateo 5:7",
+      "Mateo 2:9"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Así que la fe viene por el oír, y el oír, por la palabra de Dios.",
+    "questionNo": 50,
+    "options": [
+      "Romanos 6:7",
+      "Romanos 10:17",
+      "Romanos 3:11",
+      "Romanos 9:7"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "questionNo": 51,
+    "options": [
+      "Mateo 3:6",
+      "Mateo 9:3",
+      "Mateo 6:13",
+      "Mateo 6:33"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fortaleza.",
+    "questionNo": 52,
+    "options": [
+      "Efesios 4:2",
+      "Efesios 3:10",
+      "Efesios 6:4",
+      "Efesios 6:10"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado.",
+    "questionNo": 53,
+    "options": [
+      "Marcos 16:10E",
+      "Marcos 10:6",
+      "Marcos 16:16",
+      "Marcos 6:6"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Y enemistad pondré entre ti y la mujer, y entre tu simiente y la simiente suya; ésta te herirá en la cabeza, y tú le herirás en el calcañar.",
+    "questionNo": 54,
+    "options": [
+      "Génesis 2:5",
+      "Génesis 3:15",
+      "Génesis 3:56",
+      "Génesis 5:4"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que a Dios se acerca, crea que le hay, y que es galardonador de los que le buscan.",
+    "questionNo": 55,
+    "options": [
+      "Hebreos 7:5",
+      "Hebreos 9:4",
+      "Hebreos 11:6",
+      "Hebreos 6:1"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros viejos soñarán sueños, y vuestros jóvenes verán visiones.",
+    "questionNo": 56,
+    "options": [
+      "Joel 2:28",
+      "Joel 2:14",
+      "Joel 1:12",
+      "Joel 1:20"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hermanos míos, tened por sumo gozo cuando cayereis en diversas pruebas.",
+    "questionNo": 57,
+    "options": [
+      "Santiago 2:1",
+      "Santiago 1:2",
+      "Santiago 3:1",
+      "Santiago 4:3"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente.",
+    "questionNo": 58,
+    "options": [
+      "Mateo 12:10",
+      "Mateo 15:6",
+      "Mateo 3:12",
+      "Mateo 22:37"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Aguardando aquella esperanza bienaventurada, y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo.",
+    "questionNo": 59,
+    "options": [
+      "Tito 3:12",
+      "Tito 2:13",
+      "Tito 1:12",
+      "Tito 1:13"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Oh hombre, Él te ha declarado lo que es bueno, y ¿qué pide Jehová de ti? Solamente hacer juicio, y amar misericordia, y caminar humildemente con tu Dios.",
+    "questionNo": 60,
+    "options": [
+      "Micah 3:7",
+      "Micah 2:6",
+      "Micah 6:8",
+      "Micah 6:2"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Santifícalos en tu verdad: Tu palabra es verdad.",
+    "questionNo": 61,
+    "options": [
+      "Juan 17:17",
+      "Juan 7:7",
+      "Juan 7:1",
+      "Juan 9:1"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Jesús le dijo: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.",
+    "questionNo": 62,
+    "options": [
+      "Juan 2:11",
+      "Juan 10:15",
+      "Juan 5:12",
+      "Juan 11:25"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Jesús les dijo: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy.",
+    "questionNo": 63,
+    "options": [
+      "Juan 8:8",
+      "Juan 8:58",
+      "Juan 5:8",
+      "Juan 4:8"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer.",
+    "questionNo": 64,
+    "options": [
+      "Juan 1:5",
+      "Juan 5:5",
+      "Juan 15:5",
+      "John 10:5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Así que, los que con gozo recibieron su palabra, fueron bautizados; y aquel día fueron añadidas a ellos como tres mil almas.",
+    "questionNo": 65,
+    "options": [
+      "Hechos 2:41",
+      "Hechos 2:12",
+      "Hechos 1:15",
+      "Hechos 1:7"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Instruye al niño en su camino; y aun cuando fuere viejo no se apartará de él.",
+    "questionNo": 66,
+    "options": [
+      "Proverbios 7:12",
+      "Proverbios 17:6",
+      "Proverbios 12:6",
+      "Proverbios 22:6"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+    "questionNo": 67,
+    "options": [
+      "Santiago 2:5",
+      "Santiago 1:5",
+      "Santiago 1:7",
+      "Santiago 1:10"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "DIOS, habiendo hablado muchas veces y en muchas maneras en otro tiempo a los padres por los profetas.",
+    "questionNo": 68,
+    "options": [
+      "Hebreos 2:5",
+      "Hebreos 2:11",
+      "Hebreos 1:4",
+      "Hebreos 1:1"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "por causa de la verdad que mora en nosotros, y estará para siempre con nosotros.",
+    "questionNo": 69,
+    "options": [
+      "2 Juan 1:2",
+      "2 Juan 2:6",
+      "2 Juan 3:1",
+      "2 Juan 2:1"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Y esta es la vida eterna: Que te conozcan a ti, el único Dios verdadero, y a Jesucristo al cual tú has enviado.",
+    "questionNo": 70,
+    "options": [
+      "Juan 3:72",
+      "Juan 3:9",
+      "Juan 17:3",
+      "Juan 7:4"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "He aquí, yo estoy a la puerta y llamo; si alguno oyere mi voz y abriere la puerta, entraré a él, y cenaré con él, y él conmigo.",
+    "questionNo": 71,
+    "options": [
+      "Apocalipsis 2:10",
+      "Apocalipsis 4:9",
+      "Apocalipsis 1:5",
+      "Apocalipsis 3:20"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Yo y el Padre uno somos.",
+    "questionNo": 72,
+    "options": [
+      "Juan 9:5",
+      "Juan 10:30",
+      "Juan 5:10",
+      "Juan 7:5"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "mas santificad al Señor Dios en vuestros corazones, y estad siempre preparados para responder con mansedumbre y temor a todo el que os demande razón de la esperanza que hay en vosotros.",
+    "questionNo": 73,
+    "options": [
+      "1 Pedro 3:15",
+      "1 Pedro 2:5",
+      "1 Pedro 1:10",
+      "1 Pedro 1:7"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en el cielo.",
+    "questionNo": 74,
+    "options": [
+      "Mateo 2:17",
+      "Mateo 7:12",
+      "Mateo 7:21",
+      "Mateo 2:7"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "PERO Jehová había dicho a Abram: Vete de tu tierra y de tu parentela, y de la casa de tu padre, a la tierra que yo te mostraré.",
+    "questionNo": 75,
+    "options": [
+      "Génesis 2:1",
+      "Génesis 1:2",
+      "Génesis 11:2",
+      "Génesis 12:1"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "YO soy la vid verdadera, y mi Padre es el labrador.",
+    "questionNo": 76,
+    "options": [
+      "Juan 10:1G",
+      "Juan 15:1",
+      "Juan 5:1",
+      "Juan 1:5"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Formó, pues, Jehová Dios al hombre del polvo de la tierra, y sopló en su nariz aliento de vida; y fue el hombre un alma viviente.",
+    "questionNo": 77,
+    "options": [
+      "Génesis 2:7",
+      "Génesis 2:4",
+      "Génesis 1:5",
+      "Génesis 3:2"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Y dijo Dios: Sea la luz: y fue la luz.",
+    "questionNo": 78,
+    "options": [
+      "Génesis 2:3",
+      "Génesis 1:9",
+      "Génesis 1:3",
+      "Génesis 1:5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Y otra vez Jesús les habló, diciendo: Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, mas tendrá la luz de la vida.",
+    "questionNo": 79,
+    "options": [
+      "Juan 2:8",
+      "Juan 4:8",
+      "Juan 6:1",
+      "Juan 8:12"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Vosotros sois la luz del mundo. Una ciudad asentada sobre un monte no se puede esconder.",
+    "questionNo": 80,
+    "options": [
+      "Mateo 4:5",
+      "Mateo 5:14",
+      "Mateo 1:5",
+      "Mateo 5:42"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+    "questionNo": 81,
+    "options": [
+      "Mateo 7:7",
+      "Mateo 5:7",
+      "Mateo 4:10",
+      "Mateo 6:2"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "No era él la Luz, sino para que diese testimonio de la Luz.",
+    "questionNo": 82,
+    "options": [
+      "Juan 3:9",
+      "Juan 2:8",
+      "Juan 4:12",
+      "Juan 1:8"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Mas no quiero, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.",
+    "questionNo": 83,
+    "options": [
+      "1 Tesalonicenses 3:1",
+      "1 Tesalonicenses 3:4",
+      "1 Tesalonicenses 4:13",
+      "1 Tesalonicenses 1:4"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sean vuestras costumbres sin avaricia; contentos con lo que tenéis; porque él dijo: No te dejaré ni te desampararé.",
+    "questionNo": 84,
+    "options": [
+      "Hebreos 13:51",
+      "Hebreos 5:11",
+      "Hebreos 10:3",
+      "Hebreos 3:15"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "AMADOS, no creáis a todo espíritu, sino probad los espíritus si son de Dios; porque muchos falsos profetas han salido por el mundo.",
+    "questionNo": 85,
+    "options": [
+      "1 Juan 3:1",
+      "1 Juan 2:4",
+      "1 Juan 1:8",
+      "1 Juan 4:1"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Toda buena dadiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.",
+    "questionNo": 86,
+    "options": [
+      "Santiago 7:11",
+      "Santiago 1:17",
+      "Santiago 1:71",
+      "Santiago 1:10"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan.",
+    "questionNo": 87,
+    "options": [
+      "Santiago 4:9",
+      "Santiago 1:9",
+      "Mateo 6:19",
+      "Mateo 6:1"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Ya no hay judío, ni griego; no hay esclavo, ni libre; no hay varón, ni mujer; porque todos vosotros sois uno en Cristo Jesús.",
+    "questionNo": 88,
+    "options": [
+      "Gálatas 3:12",
+      "Gálatas 2:8",
+      "Gálatas 3:28",
+      "Gálatas 2:22"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos vengan al arrepentimiento.",
+    "questionNo": 89,
+    "options": [
+      "2 Pedro 3:9",
+      "2 Pedro 2:3",
+      "2 Pedro 1:6",
+      "2 Pedro 2:7"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Está alguno enfermo entre vosotros? Llame a los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor.",
+    "questionNo": 90,
+    "options": [
+      "Santiago 5:42",
+      "Santiago 5:14",
+      "Santiago 1:5",
+      "Santiago 4:1"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este mundo, contra malicias espirituales en las alturas.",
+    "questionNo": 91,
+    "options": [
+      "Efesios 3:4",
+      "Efesios 6:12",
+      "Efesios 4:10",
+      "Efesios 2:8"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Vosotros, pues, oraréis así: Padre nuestro que estás en el cielo, santificado sea tu nombre.",
+    "questionNo": 92,
+    "options": [
+      "Mateo 3:8",
+      "Mateo 4:12",
+      "Mateo 5:11",
+      "Mateo 6:9"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Así que, arrepentíos y convertíos, para que sean borrados vuestros pecados; para que vengan tiempos de refrigerio de la presencia del Señor.",
+    "questionNo": 93,
+    "options": [
+      "Hechos 3:19",
+      "Hechos 1:9",
+      "Hechos 3:7",
+      "Hechos 2:11"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hermanos míos, ¿qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?.",
+    "questionNo": 94,
+    "options": [
+      "Santiago 3:4",
+      "Santiago 4:2",
+      "Santiago 2:14",
+      "Santiago 1:7"
+    ],
+    "correct": 2
+},
+  {
+    "question": "mas los que esperan a Jehová tendrán nuevas fuerzas; levantarán las alas como águilas, correrán, y no se cansarán, caminarán, y no se fatigarán.",
+    "questionNo": 95,
+    "options": [
+      "Isaías 21:13",			
+      "Isaías 40:31",
+      "Isaías 32:9",
+      "Isaías 5:15"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Porque no envió Dios a su Hijo al mundo, para condenar al mundo, sino para que el mundo sea salvo por él.",
+    "questionNo": 96,
+    "options": [
+      "Juan 2:11",						
+      "Juan 1:9",
+      "Juan 7:3",
+      "Juan 3:17"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas.",
+    "questionNo": 97,
+    "options": [
+      "Efesios 2:10",			 						
+      "Efesios 1:12",
+      "Efesios 1:6",
+      "Efesios 2:6"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Al que no conoció pecado, lo hizo pecado por nosotros, para que nosotros fuésemos hechos justicia de Dios en él.",
+    "questionNo": 98,
+    "options": [
+      "2 Corintios 5:12",						 						
+      "2 Corintios 2:5",
+      "2 Corintios 5:21",
+      "2 Corintios 2:15"
+    ],
+    "correct": 2
+},
+  {
+    "question": "¿QUÉ, pues, diremos? ¿Perseveraremos en el pecado para que la gracia abunde?",
+    "questionNo": 99,
+    "options": [
+      "Romanos 2:12",									 						
+      "Romanos 6:1",
+      "Romanos 3:4",
+      "Romanos 5:2"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Por tanto, si tu hermano pecare contra ti, ve y repréndele estando tú y él solos; si te oyere, has ganado a tu hermano.",
+    "questionNo": 100,
+    "options": [
+      "Mateo 11:18",												 						
+      "Mateo 15:11",
+      "Mateo 5:8",
+      "Mateo 18:15"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Ellos son del mundo; por eso hablan del mundo, y el mundo los oye.",
+    "questionNo": 101,
+    "options": [
+      "1 Juan 2:14",															 						
+      "1 Juan 4:5",
+      "1 Juan 3:9",
+      "1 Juan 2:10"
+    ],
+    "correct": 1
+ },
+  {
+    "question": "La religión pura y sin mácula delante de Dios y Padre es esta: Visitar a los huérfanos y a las viudas en sus tribulaciones, y guardarse sin mancha del mundo.",
+    "questionNo": 102,
+    "options": [
+      "Santiago 1:13",																		 						
+      "Santiago 2:2",
+      "Santiago 1:27",
+      "Santiago 2:5"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; mas confiad, yo he vencido al mundo.",
+    "questionNo": 103,
+    "options": [
+      "Juan 16:33",																					 						
+      "Juan 6:3",
+      "Juan 3:6",
+      "Juan 13:16"
+    ],
+    "correct": 0
+},
+  {
+    "question": "No os maravilléis de esto; porque vendrá hora cuando todos los que están en los sepulcros oirán su voz.",
+    "questionNo": 104,
+    "options": [
+      "Juan 4:2",																								 						
+      "Juan 5:8",
+      "Juan 2:8",
+      "Juan 5:28"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Escudriñad las Escrituras; porque a vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí.",
+    "questionNo": 105,
+    "options": [
+      "Juan 3:9",																											 						
+      "Juan 5:39",
+      "Juan 5:19",
+      "Juan 2:17"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren.",
+    "questionNo": 106,
+    "options": [
+      "Juan 2: 14",																														 						
+      "Juan 3:12",
+      "Juan 4:23",
+      "Juan 2:13"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre.",
+    "questionNo": 107,
+    "options": [
+      "1 Timoteo 2:5",																														 						
+      "1 Timoteo 2:10",
+      "1 Timoteo 1:2",
+      "1 Timoteo 1:6"
+    ],
+    "correct": 0
+},
+  {
+    "question": "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer.",
+    "questionNo": 108,
+    "options": [
+      "Juan 1:18",																																	 						
+      "Juan 3:8",
+      "Juan 4:2",
+      "Juan 2:4"
+    ],
+    "correct": 0
+},
+  {
+    "question": "YO pues, preso en el Señor, os ruego que andéis como es digno del llamamiento con que sois llamados.",
+    "questionNo": 109,
+    "options": [
+      "Efesios 2:7",																																				 						
+      "Efesios 2:9",
+      "Efesios 3:7",
+      "Efesios 4:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y no os embriaguéis con vino, en lo cual hay disolución; mas sed llenos del Espíritu.",
+    "questionNo": 110,
+    "options": [
+      "Efesios 5:7",																																							 						
+      "Efesios 5:18",
+      "Efesios 5:8",
+      "Efesios 1:8"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Las casadas estén sujetas a sus propios maridos, como al Señor.",
+    "questionNo": 111,
+    "options": [
+      "Efesios 2:5",																																							 						
+      "Efesios 5:12",
+      "Efesios 5:22",
+      "Efesios 2:15"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Y VI un cielo nuevo, y una tierra nueva; porque el primer cielo y la primera tierra habían pasado, y el mar no existía ya más.",
+    "questionNo": 112,
+    "options": [
+      "Apocalipsis 21:1",																																										 						
+      "Apocalipsis 2:11",
+      "Apocalipsis 1:12",
+      "Apocalipsis 1:11"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Ninguno puede venir a mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero.",
+    "questionNo": 113,
+    "options": [
+      "Juan 4:16",																																													 						
+      "Juan 6:14",
+      "Juan 4:6",
+      "Juan 6:44"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Lámpara es a mis pies tu palabra, Y lumbrera a mi camino.",
+    "questionNo": 114,
+    "options": [
+      "Salmos 10:19",																																																 						
+      "Salmos 119:105",
+      "Salmos 19:10",
+      "Salmos 9:5"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.",
+    "questionNo": 115,
+    "options": [
+      "Génesis 4:18",																																																			 						
+      "Génesis 2:18",
+      "Gensis 8:18",
+      "Génesis 8:14"
+    ],
+    "correct": 1
+},
+  {
+    "question": "mas si andamos en luz, como él está en luz, tenemos comunión unos con otros, y la sangre de Jesucristo su Hijo nos limpia de todo pecado.",
+    "questionNo": 116,
+    "options": [
+      "1 Juan 3:10",																																																						 						
+      "1 Juan 2:7",
+      "1 Juan 1:10",
+      "1 Juan 1:7"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Porque primeramente os he entregado lo que asimismo recibí: Que Cristo murió por nuestros pecados conforme a las Escrituras.",
+    "questionNo": 117,
+    "options": [
+      "1 Corintios 15:31",																																																									 						
+      "1 Corintios 3:5",
+      "1 Corintios 13:3",
+      "1 Corintios 5:13"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Mas Él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre Él; y por su llaga fuimos nosotros curados.",
+    "questionNo": 118,
+    "options": [
+      "Isaías 15:3",																																																												 						
+      "Isaías 35:3",
+      "Isaías 3:15",
+      "Isaías 53:5"
+    ],
+    "correct": 3
+},
+  {
+    "question": "en quien tenemos redención por su sangre, la remisión de pecados, según las riquezas de su gracia.",
+    "questionNo": 119,
+    "options": [
+      "Efesios 1:5",																																																															 						
+      "Efesios 2:7",
+      "Efesios 1:75",
+      "Efesios 3:9"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Maridos, amad a vuestras esposas, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella.",
+    "questionNo": 120,
+    "options": [
+      "Efesios 2:12",																																																																		 						
+      "Efesios 5:25",
+      "Efesios 2:15",
+      "Efesios 5:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mas vosotros no estáis en la carne, sino en el Espíritu, si es que el Espíritu de Dios mora en vosotros. Y si alguno no tiene el Espíritu de Cristo, el tal no es de él.",
+    "questionNo": 121,
+    "options": [
+      "Romanos 4:8",																																																																					 						
+      "Romanos 5:7",
+      "Romanos 3:2",
+      "Romanos 8:9"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Nadie tiene mayor amor que este, que alguno ponga su vida por sus amigos.",
+    "questionNo": 122,
+    "options": [
+      "Juan 15:13",																																																																								 						
+      "Juan 5:15",
+      "Juan 13:10",
+      "Juan 11:5"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado.",
+    "questionNo": 123,
+    "options": [
+      "Juan 1:11",																																																																											 						
+      "Juan 2:13",
+      "Juan 3:14",
+      "Juan 4:12"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Nicodemo le dijo: ¿Cómo puede el hombre nacer siendo viejo? ¿Puede entrar por segunda vez en el vientre de su madre, y nacer?",
+    "questionNo": 124,
+    "options": [
+      "Juan 4:2",																																																																														 						
+      "Juan 2:53",
+      "Juan 3:4",
+      "Juan 2:6"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Entrad por la puerta estrecha; porque ancha es la puerta, y espacioso el camino que lleva a perdición y muchos son los que entran por ella.",
+    "questionNo": 125,
+    "options": [
+      "Mateo 3:15",																																																																																	 						
+      "Mateo 7:13",
+      "Mateo 6:4",
+      "Mateo 3:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mas sed hacedores de la palabra, y no solamente oidores, engañándoos a vosotros mismos.",
+    "questionNo": 126,
+    "options": [
+      "Santiago 2:12",																																																																																				 						
+      "Santiago 2:10",
+      "Santiago 1:7",
+      "Santiago 1:22"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su esposa, y serán una sola carne.",
+    "questionNo": 127,
+    "options": [
+      "Génesis 6:17",																																																																																							 						
+      "Génesis 2:24",
+      "Génesis 2:14",
+      "Génesis 4:22"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mis ovejas oyen mi voz, y yo las conozco, y me siguen.",
+    "questionNo": 128,
+    "options": [
+      "Juan 5:17",																																																																																										 						
+      "Juan 2:20",
+      "Juan 10:27",
+      "Juan 5:10"
+    ],
+    "correct": 2
+},
+  {
+    "question": "SI, pues, habéis resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado a la diestra de Dios.",
+    "questionNo": 129,
+    "options": [
+      "Colosenses 1:9",																																																																																													 						
+      "Colosenses 4:1",
+      "Colosenses 3:3",
+      "Colosenses 3:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Pero Dios, habiendo pasado por alto los tiempos de esta ignorancia, ahora demanda a todos los hombres en todo lugar, que se arrepientan.",
+    "questionNo": 130,
+    "options": [
+      "Hechos 17:30",																																																																																																 						
+      "Hechos 7:13",
+      "Hechos 13:17",
+      "Hechos 10:13"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Porque también Cristo padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios, siendo a la verdad muerto en la carne, pero vivificado por el Espíritu.",
+    "questionNo": 131,
+    "options": [
+      "1 Pedro 3:18",																																																																																																			 						
+      "1 Pedro 1:14",
+      "1 Pedro 2:16",
+      "1 Pedro 3:12"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá.",
+    "questionNo": 132,
+    "options": [
+      "Mateo 3:7",																																																																																																						 						
+      "Mateo 7:8",
+      "Mateo 4:5",
+      "Mateo 5:8"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Someteos pues a Dios. Resistid al diablo, y huirá de vosotros.",
+    "questionNo": 133,
+    "options": [
+      "Santiago 4:7",																																																																																																									 						
+      "Santiago 5:9",
+      "Santiago 3:7",
+      "Santiago 2:4"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Yo soy el buen pastor; el buen pastor su vida da por las ovejas.",
+    "questionNo": 134,
+    "options": [
+      "Juan 1:11",																																																																																																												 						
+      "Juan 5:15",
+      "Juan 10:11",
+      "Juan 9:5"
+    ],
+    "correct": 2
+},
+  {
+    "question": "La paz os dejo, mi paz os doy; no como el mundo la da, yo os la doy. No se turbe vuestro corazón, ni tenga miedo.",
+    "questionNo": 135,
+    "options": [
+      "Juan 12:17",																																																																																																												 						
+      "Juan 11:20",
+      "Juan 4:12",
+      "Juan 14:27"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Todo lo que el Padre me da, vendrá a mí; y al que a mí viene, yo no le echo fuera.",
+    "questionNo": 136,
+    "options": [
+      "Juan 3:13",																																																																																																															 						
+      "Juan 6:10",
+      "Juan 6:37",
+      "Juan 2:12"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Engañoso es el corazón más que todas las cosas, y perverso; ¿quién lo conocerá?",
+    "questionNo": 137,
+    "options": [
+      "Jeremías 17:9",																																																																																																																		 						
+      "Jeremías 13:3",
+      "Jeremías 15:6",
+      "Jeremías 11:9"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Amados, amémonos unos a otros; porque el amor es de Dios. Todo el que ama, es nacido de Dios, y conoce a Dios.",
+    "questionNo": 138,
+    "options": [
+      "1 Juan 3:6",																																																																																																																					 						
+      "1 Juan 4:7",
+      "1 Juan 3:4",
+      "Juan 2:9"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y todas las almas de los que salieron de los lomos de Jacob, fueron setenta. Y José estaba en Egipto.",
+    "questionNo": 139,
+    "options": [
+      "Éxodo 4:7",																																																																																																																								 						
+      "Éxodo 9:2",
+      "Éxodo 8:4",
+      "Éxodo 1:5"
+    ],
+    "correct": 3
+},
+  {
+    "question": "No améis al mundo, ni las cosas que están en el mundo. Si alguno ama al mundo, el amor del Padre no está en él.",
+    "questionNo": 140,
+    "options": [
+      "1 Juan 3:2",																																																																																																																											 						
+      "1 Juan 2:15",
+      "1 Juan 2:8",
+      "1 Juan 1:7"
+    ],
+    "correct": 1
+},
+  {
+    "question": "entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada.",
+    "questionNo": 141,
+    "options": [
+      "2 Pedro 2:10",																																																																																																																														 						
+      "2 Pedro 2:12",
+      "2 Pedro 1:20",
+      "2 Pedro 1:12"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Vestíos, pues, como escogidos de Dios, santos y amados, de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de longanimidad.",
+    "questionNo": 142,
+    "options": [
+      "Colosenses 1:15",																																																																																																																																	 						
+      "Colosenses 3:12",
+      "Colosenses 2:13",
+      "Colosenses 2:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Pero cuando viniere el Consolador, al cual yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí.",
+    "questionNo": 143,
+    "options": [
+      "Juan 2:16",																																																																																																																																				 						
+      "Juan 12:15",
+      "Juan 6:12",
+      "Juan 15:26"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos.",
+    "questionNo": 144,
+    "options": [
+      "Juan 17:20",																																																																																																																																							 						
+      "Juan 15:7",
+      "Juan 12:9",
+      "Juan 10:12"
+    ],
+    "correct": 0
+},
+  {
+    "question": "MIRAD cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios; por esto el mundo no nos conoce, porque no le conoció a él.",
+    "questionNo": 145,
+    "options": [
+      "1 Juan 2:7",																																																																																																																																										 						
+      "1 Juan 2:5",
+      "1 Juan 1:3",
+      "1 Juan 3:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Entonces Pedro, abriendo su boca, dijo: A la verdad entiendo que Dios no hace acepción de personas.",
+    "questionNo": 146,
+    "options": [
+      "Hechos 3:10",																																																																																																																																													 						
+      "Hechos 10:34",
+      "Hechos 9:13",
+      "Hechos 4:10"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y vino a Nazaret, donde había sido criado; y entró el día sábado en la sinagoga, conforme a su costumbre, y se levantó a leer.",
+    "questionNo": 147,
+    "options": [
+      "Lucas 4:11",																																																																																																																																																 						
+      "Lucas 2:11",
+      "Lucas 4:16",
+      "Lucas 3:14"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Y CUANDO Jesús nació en Belén de Judea en días del rey Herodes, he aquí unos hombres sabios del oriente vinieron a Jerusalem.",
+    "questionNo": 148,
+    "options": [
+      "Mateo 2:1",																																																																																																																																																			 						
+      "Mateo 2:6",
+      "Mateo 1:10",
+      "Mateo 4:7"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y ordenases ancianos en cada ciudad, así como yo te mandé.",
+    "questionNo": 149,
+    "options": [
+      "Tito 1:7",																																																																																																																																																						 						
+      "Tito 2:3",
+      "Tito 2:6",
+      "Tito 1:5"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y decía a todos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz cada día, y sígame.",
+    "questionNo": 150,
+    "options": [
+      "Lucas 3:19",																																																																																																																																																									 						
+      "Lucas 2:13",
+      "Lucas 9:23",
+      "Lucas 9:12"
+    ],
+    "correct": 2
+},
+  {
+    "question": "porque todos sois hijos de Dios por la fe en Cristo Jesús.",
+    "questionNo": 151,
+    "options": [
+      "Gálatas 3:26",																																																																																																																																																												 						
+      "Gálatas 2:13",
+      "Gálatas 2:26",
+      "Gálatas 3:16"
+    ],
+    "correct": 0
+},
+  {
+    "question": "HIJITOS míos, estas cosas os escribo para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, a Jesucristo el justo.",
+    "questionNo": 152,
+    "options": [
+      "1 Juan 2:1",																																																																																																																																																															 						
+      "1 Juan 1:2",
+      "1 Juan 3:5",
+      "1 Juan 1:9"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Sed sobrios, y velad; porque vuestro adversario el diablo, cual león rugiente, anda alrededor buscando a quien devorar.",
+    "questionNo": 153,
+    "options": [
+      "1 Pedro 2:8",																																																																																																																																																																	 						
+      "1 Pedro 3:5",
+      "1 Pedro 5:8",
+      "1 Pedro 4:2"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Gracia sea a vosotros, y paz de Dios nuestro Padre, y del Señor Jesucristo.",
+    "questionNo": 154,
+    "options": [
+      "2 Corintios 2:5",																																																																																																																																																																			 						
+      "2 Corintios 1:2",
+      "2 Corintios 1:7",
+      "2 Corintios 2:6"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Porque tres son los que dan testimonio en el cielo, el Padre, el Verbo, y el Espíritu Santo; y estos tres son uno.",
+    "questionNo": 155,
+    "options": [
+      "1 Juan 2:9",																																																																																																																																																																						 						
+      "1 Juan 3:9",
+      "1 Juan 3:6",
+      "1 Juan 5:7"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Porque no tenemos un Sumo Sacerdote que no pueda compadecerse de nuestras flaquezas; sino uno que fue tentado en todo según nuestra semejanza, pero sin pecado.",
+    "questionNo": 156,
+    "options": [
+      "Hebreos 4:15",																																																																																																																																																																									 						
+      "Hebreos 5:12",
+      "Hebreos 3:10",
+      "Hebreos 2:15"
+    ],
+    "correct": 1
+},
+  {
+    "question": "ESTAD, pues, firmes en la libertad con que Cristo nos hizo libres; y no os sujetéis de nuevo al yugo de esclavitud.",
+    "questionNo": 157,
+    "options": [
+      "Gálatas 2:5",																																																																																																																																																																												 						
+      "Gálatas 4:5",
+      "Gálatas 2:9",
+      "Gálatas 5:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "¡Cómo caíste del cielo, oh Lucifer, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas las naciones.",
+    "questionNo": 158,
+    "options": [
+      "Isaías 4:12",																																																																																																																																																																															 						
+      "Isaías 14:12",
+      "Isaías 2:14",
+      "Isaías 12:14"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Jesucristo es el mismo ayer, y hoy, y por siempre.",
+    "questionNo": 159,
+    "options": [
+      "Hebreos 8:12",																																																																																																																																																																																		 						
+      "Hebreos 13:8",
+      "Hebreos 3:18",
+      "Hebreos 8:3"
+    ],
+    "correct": 1
+},
+  {
+    "question": "¿Tantas cosas habéis padecido en vano? si en verdad fue en vano.",
+    "questionNo": 160,
+    "options": [
+      "Gálatas 4:3",																																																																																																																																																																																					 						
+      "Gálatas 2:7",
+      "Gálatas 2:3",
+      "Gálatas 3:4"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Mas en el postrer y gran día de la fiesta, Jesús se puso en pie y alzó su voz, diciendo: Si alguno tiene sed, venga a mí y beba.",
+    "questionNo": 161,
+    "options": [
+      "Juan 7:37",																																																																																																																																																																																								 						
+      "Juan 7:7",
+      "Juan 7:13",
+      "Juan 3:17"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Porque de cierto os digo, que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo sea cumplido.",
+    "questionNo": 162,
+    "options": [
+      "Mateo 2:15",																																																																																																																																																																																											 						
+      "Mateo 4:16",
+      "Mateo 6:15",
+      "Mateo 5:16"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Porque todos los que son guiados por el Espíritu de Dios, los tales son hijos de Dios.",
+    "questionNo": 163,
+    "options": [
+      "Romanos 4:18",																																																																																																																																																																																														 						
+      "Romanos 8:14",
+      "Romanos 4:8",
+      "Romanos 2:14"
+    ],
+    "correct": 1
+},
+  {
+    "question": "¿Qué, pues, diremos a esto? Si Dios por nosotros, ¿Quién contra nosotros?.",
+    "questionNo": 164,
+    "options": [
+      "Romanos 6:18",																																																																																																																																																																																																	 						
+      "Romanos 8:11",
+      "Romanos 8:31",
+      "Romanos 3:18"
+    ],
+    "correct": 2
+},
+  {
+    "question": "En él estaba la vida, y la vida era la luz de los hombres.",
+    "questionNo": 165,
+    "options": [
+      "Juan 1:2",																																																																																																																																																																																																				 						
+      "Juan 1:4",
+      "Juan 4:12",
+      "Juan 2:4"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Por tanto, amados míos, como siempre habéis obedecido, no como en mi presencia solamente, sino mucho más ahora en mi ausencia, ocupaos en vuestra salvación, con temor y temblor.",
+    "questionNo": 166,
+    "options": [
+      "Filipenses 12:2",																																																																																																																																																																																																							 						
+      "Filipenses 3:12",
+      "Filipenses 1:12",
+      "Filipenses 2:12"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Respondió Jesús y le dijo: Si alguno me ama, mi palabra guardará; y mi Padre le amará, y vendremos a él, y haremos con él morada.",
+    "questionNo": 167,
+    "options": [
+      "Juan 14:23",																																																																																																																																																																																																										 						
+      "Juan 12:23",
+      "Juan 14:24",
+      "Juan 11:2"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Y cuando él viniere, redargüirá al mundo de pecado, y de justicia, y de juicio.",
+    "questionNo": 168,
+    "options": [
+      "Juan 8:16",																																																																																																																																																																																																													 						
+      "Juan 16:8",
+      "Juan 1:2",
+      "Juan 16:3"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Porque la profecía no vino en tiempo pasado por la voluntad del hombre; sino que los santos hombres de Dios hablaron siendo guiados por el Espíritu Santo.",
+    "questionNo": 169,
+    "options": [
+      "2 Pedro 1:21",																																																																																																																																																																																																																 						
+      "1 Pedro 1:21",
+      "2 Pedro 1:2",
+      "1 Pedro 2:1"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Si decimos que no tenemos pecado, nos engañamos a nosotros mismos, y la verdad no está en nosotros.",
+    "questionNo": 170,
+    "options": [
+      "1 Juan 1:2",																																																																																																																																																																																																																			 						
+      "1 Juan 1:5",
+      "1 Juan 1:9",
+      "1 Juan 1:8"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y LES dijo también una parábola sobre que es necesario orar siempre, y no desmayar.",
+    "questionNo": 171,
+    "options": [
+      "Lucas 18:5",																																																																																																																																																																																																																						 						
+      "Lucas 18:1",
+      "Lucas 1:18",
+      "Lucas 1:10"
+    ],
+    "correct": 1
+},
+  {
+    "question": "estando confiado de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.",
+    "questionNo": 172,
+    "options": [
+      "Filipenses 1:2",																																																																																																																																																																																																																									 						
+      "Filipenses 1:5",
+      "Filipenses 2:6",
+      "Filipenses 1:6"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Guardaos de los falsos profetas, que vienen a vosotros vestidos de ovejas, mas por dentro son lobos rapaces.",
+    "questionNo": 173,
+    "options": [
+      "Mateo 4:15",																																																																																																																																																																																																																												 						
+      "Mateo 7:15",
+      "Mateo 7:12",
+      "Mateo 4:17"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Respondió Jesús y les dijo: Destruid este templo, y en tres días lo levantaré.",
+    "questionNo": 174,
+    "options": [
+      "Juan 2:20",																																																																																																																																																																																																																															 						
+      "Juan 19:2",
+      "Juan 19:20",
+      "Juan 2:19"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Te acordarás del día de reposo, para santificarlo.",
+    "questionNo": 175,
+    "options": [
+      "Éxodo 4:7",																																																																																																																																																																																																																																		 						
+      "Éxodo 20:2",
+      "Éxodo 20:8",
+      "Éxodo 20:5"
+    ],
+    "correct": 2
+},
+  {
+    "question": "y considerémonos los unos a los otros para provocarnos al amor y a las buenas obras.",
+    "questionNo": 176,
+    "options": [
+      "Hebreos 11:2",																																																																																																																																																																																																																																					 						
+      "Hebreos 10:24",
+      "Hebreos 1:2",
+      "Hebreos 10:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "POR tanto, si hay alguna consolación en Cristo, si algún refrigerio de amor, si alguna comunión del Espíritu, si algún afecto entrañable y misericordias.",
+    "questionNo": 177,
+    "options": [
+      "Filipenses 2:1",																																																																																																																																																																																																																																							 						
+      "Filipenses 1:2",
+      "Filipenses 2:6",
+      "Filipenses 2:5"
+    ],
+    "correct": 0
+},
+  {
+    "question": "En la casa de mi Padre muchas mansiones hay; si así no fuera, yo os lo hubiera dicho. Voy, pues, a preparar lugar para vosotros.",
+    "questionNo": 178,
+    "options": [
+      "Juan 2:14",																																																																																																																																																																																																																																										 						
+      "Juan 2:20",
+      "Juan 14:2",
+      "Juan 14:5"
+    ],
+    "correct": 2
+},
+  {
+    "question": "No os engañéis; Dios no puede ser burlado; pues todo lo que el hombre sembrare, eso también segará.",
+    "questionNo": 179,
+    "options": [
+      "Gálatas 6:7",																																																																																																																																																																																																																																													 						
+      "Gálatas 3:2",
+      "Gálatas 5:6",
+      "Gálatas 1:7"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Porque somos sepultados con él en la muerte por el bautismo; para que como Cristo resucitó de los muertos para la gloria del Padre, así también nosotros andemos en novedad de vida.",
+    "questionNo": 180,
+    "options": [
+      "Romanos 4:6",																																																																																																																																																																																																																																																 						
+      "Romanos 2:4",
+      "Romanos 6:4",
+      "Romanos 4:2"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Bienaventurados los misericordiosos; porque ellos alcanzarán misericordia.",
+    "questionNo": 181,
+    "options": [
+      "Mateo 3:7",																																																																																																																																																																																																																																																 						
+      "Mateo 3:9",
+      "Mateo 4:5",
+      "Mateo 5:7"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y manifiestas son las obras de la carne, que son: Adulterio, fornicación, lascivia, inmundicia.",
+    "questionNo": 182,
+    "options": [
+      "Gálatas 1:9",																																																																																																																																																																																																																																																			 						
+      "Gálatas 5:19",
+      "Gálatas 5:9",
+      "Gálatas 5:1"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Por lo cual estoy seguro que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir.",
+    "questionNo": 183,
+    "options": [
+      "Romanos 3:8",																																																																																																																																																																																																																																																						 						
+      "Romanos 3:18",
+      "Romanos 8:8",
+      "Romanos 8:38"
+    ],
+    "correct": 3
+},
+  {
+    "question": "La caridad es sufrida, es benigna; La caridad no tiene envidia, la caridad no es jactanciosa, no se envanece.",
+    "questionNo": 184,
+    "options": [
+      "1 Corintios 13:4",																																																																																																																																																																																																																																																									 						
+      "1 Corintios 3:4",
+      "1 Corintios 4:3",
+      "1 Corintios 1:13"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Y Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás.",
+    "questionNo": 185,
+    "options": [
+      "Juan 3:6",																																																																																																																																																																																																																																																												 						
+      "Juan 6:35",
+      "Juan 5:3",
+      "Juan 6:5"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y SAULO, respirando aún amenazas y muerte contra los discípulos del Señor, fue al sumo sacerdote.",
+    "questionNo": 186,
+    "options": [
+      "Hechos 9:1",																																																																																																																																																																																																																																																															 						
+      "Hechos 3:9",
+      "Hechos 9:7",
+      "Hechos 2:7"
+    ],
+    "correct": 0
+},
+  {
+    "question": "según nos escogió en Él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de Él, en amor.",
+    "questionNo": 187,
+    "options": [
+      "Efesios 1:9",																																																																																																																																																																																																																																																																		 						
+      "Efesios 2:4",
+      "Efesios 2:6",
+      "Efesios 1:4"
+    ],
+    "correct": 3
+},
+  {
+    "question": "No os unáis en yugo desigual con los incrédulos; porque ¿qué compañerismo tiene la justicia con la injusticia? ¿Y qué comunión la luz con las tinieblas?",
+    "questionNo": 188,
+    "options": [
+      "2 Corintios 4:1",																																																																																																																																																																																																																																																																				 						
+      "2 Corintios 1:14",
+      "2 Corintios 6:14",
+      "2 Corintios 4:6"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Por tanto os digo: No os afanéis por vuestra vida, qué habéis de comer, o qué habéis de beber; ni por vuestro cuerpo, qué habéis de vestir. ¿No es la vida más que el alimento, y el cuerpo más que el vestido?",
+    "questionNo": 189,
+    "options": [
+      "Mateo 2:52",																																																																																																																																																																																																																																																																							 						
+      "Mateo 2:6",
+      "Mateo 6:25",
+      "Mateo 5:6"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Ciertamente llevó Él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido.",
+    "questionNo": 190,
+    "options": [
+      "Isaías  53:4",																																																																																																																																																																																																																																																																											 						
+      "Isaías  4:5",
+      "Isaías  5:4",
+      "Isaías  3:4"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Y dará a luz un hijo, y llamarás su nombre JESÚS; porque él salvará a su pueblo de sus pecados.",
+    "questionNo": 191,
+    "options": [
+      "Mateo 1:5",																																																																																																																																																																																																																																																																														 						
+      "Mateo 2:1",
+      "Mateo 2:18",
+      "Mateo 1:21"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y a Aquél que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos, o entendemos, según el poder que opera en nosotros.",
+    "questionNo": 192,
+    "options": [
+      "Efesios 3:11",																																																																																																																																																																																																																																																																																	 						
+      "Efesios 3:20",
+      "Efesios 2:9",
+      "Efesios 1:11"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mas venido el cumplimiento del tiempo, Dios envió a su hijo, nacido de mujer, nacido bajo la ley.",
+    "questionNo": 193,
+    "options": [
+      "Gálatas 4:4",																																																																																																																																																																																																																																																																																				 						
+      "Gálatas 2:4",
+      "Gálatas 1:4",
+      "Gálatas 3:2"
+    ],
+    "correct": 0
+},
+  {
+    "question": "puestos los ojos en Jesús, el autor y consumador de la fe, el cual, por el gozo puesto delante de él sufrió la cruz, menospreciando la vergüenza, y se sentó a la diestra del trono de Dios.",
+    "questionNo": 194,
+    "options": [
+      "Hebreos 2:11",			 																																																																																																																																																																																																																																																																																				 						
+      "Hebreos 2:1",
+      "Hebreos 4:12",
+      "Hebreos 12:2"
+    ],
+    "correct": 3
+},
+  {
+    "question": "El les respondió: El que me sanó, él mismo me dijo: Toma tu lecho y anda.",
+    "questionNo": 195,
+    "options": [
+      "Juan 2:9",		 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 3:5",
+      "Juan 5:11",
+      "Juan 5:1"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Y JESÚS, lleno del Espíritu Santo, volvió del Jordán, y fue llevado por el Espíritu al desierto.",
+    "questionNo": 196,
+    "options": [
+      "Luke 1:4",					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Luke 3:2",
+      "Luke 3:5",
+      "Luke 4:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Varones israelitas, oíd estas palabras: Jesús Nazareno, varón aprobado de Dios entre vosotros con milagros y prodigios, y señales que Dios hizo por medio de él en medio de vosotros, como también vosotros sabéis.",
+    "questionNo": 197,
+    "options": [
+      "Hechos 1:2",			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 2:22",
+      "Hechos 2:2",
+      "Hechos 2:11"
+    ],
+    "correct": 1
+},
+  {
+    "question": "PUESTO que ya muchos han intentado poner en orden la historia de las cosas que entre nosotros son ciertísimas.",
+    "questionNo": 198,
+    "options": [
+      "Luke 1:1",						 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Luke 1:7",
+      "Luke 2:5",
+      "Luke 2:2"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Porque tengo por cierto que las aflicciones del tiempo presente no son de comparar con la gloria que en nosotros ha de ser manifestada.",
+    "questionNo": 199,
+    "options": [
+      "Romanos 8:1",									 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 1:4",
+      "Romanos 8:18",
+      "Romanos 4:8"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Entonces Jesús les dijo otra vez: Paz a vosotros: Como me envió el Padre, así también yo os envío.",
+    "questionNo": 200,
+    "options": [
+      "Juan 2:10",												 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 20:21",
+      "Juan 12:2",
+      "Juan 18:5"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Bienaventurados los pobres en espíritu; porque de ellos es el reino de los cielos.",
+    "questionNo": 201,
+    "options": [
+      "Mateo 1:5",															 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 2:7",
+      "Mateo 3:5",
+      "Mateo 5:3"
+    ],
+    "correct": 3
+},
+  {
+    "question": "el cual nos ha librado de la potestad de las tinieblas, y trasladado al reino de su amado Hijo.",
+    "questionNo": 202,
+    "options": [
+      "Colosenses 1:1",	 																 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Colosenses 1:3",
+      "Colosenses 1:7",
+      "Colosenses 1:13"
+    ],
+    "correct": 3
+},
+  {
+    "question": "DESPUÉS de estas cosas, designó el Señor también a otros setenta, los cuales envió de dos en dos delante de su faz, a toda ciudad y lugar a donde él había de venir.",
+    "questionNo": 203,
+    "options": [
+      "Lucas 9:8",	 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 10:1",
+      "Lucas 5:11",
+      "Lucas 4:4"
+    ],
+    "correct": 1
+ },
+  {
+    "question": "Y vi un gran trono blanco y al que estaba sentado sobre él, de delante del cual huyeron la tierra y el cielo; y no fue hallado lugar para ellos.",
+    "questionNo": 204,
+    "options": [
+      "Apocalipsis 12:2",				 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Apocalipsis 17:9",
+      "Apocalipsis 20:11",
+      "Apocalipsis 10:6"
+    ],
+    "correct": 2
+},
+  {
+    "question": "diciendo: El tiempo se ha cumplido, y el reino de Dios se ha acercado: Arrepentíos, y creed en el evangelio.",
+    "questionNo": 205,
+    "options": [
+      "Marcos 1:15",				 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 1:9",
+      "Marcos 1:5",
+      "Marcos 1:1"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Sujetaos los unos a los otros en el temor de Dios.",
+    "questionNo": 206,
+    "options": [
+      "Efesios 2:15",							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Efesios 5:21",
+      "Efesios 2:5",
+      "Efesios 5:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo que está en vosotros, el cual tenéis de Dios, y no sois vuestros?",
+    "questionNo": 207,
+    "options": [
+      "1 Corintios 6:19",										 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 4:19",
+      "1 Corintios 1:6",
+      "1 Corintios 1:9"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Jesús le dice: Ve, llama a tu marido, y ven acá.",
+    "questionNo": 208,
+    "options": [
+      "Juan 1:14",													 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 4:16",
+      "Juan 2:16",
+      "Juan 3:4"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Porque el Hijo del Hombre vino a buscar y a salvar lo que se había perdido.",
+    "questionNo": 209,
+    "options": [
+      "Lucas 10:9",																 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 1:19",
+      "Lucas 19:10",
+      "Lucas 9:10"
+    ],
+    "correct": 2
+},
+  {
+    "question": "enseñándoles que guarden todas las cosas que os he mandado, y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén.",
+    "questionNo": 210,
+    "options": [
+      "Mateo 8:10",																			 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 28:20",
+      "Mateo 2:18",
+      "Mateo 8:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y EL primer día de la semana, muy de mañana, vinieron al sepulcro, trayendo las especias aromáticas que habían preparado, y algunas otras mujeres con ellas.",
+    "questionNo": 211,
+    "options": [
+      "Lucas 12:4",																						 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 22:4",
+      "Lucas 4:12",
+      "Lucas 24:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Por tanto, teniendo un gran Sumo Sacerdote, que traspasó los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión.",
+    "questionNo": 212,
+    "options": [
+      "Hebreos 4:11",																									 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hebreos 4:4",
+      "Hebreos 4:14",
+      "Hebreos 1:4"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes a él, porque le veremos como él es.",
+    "questionNo": 213,
+    "options": [
+      "1 Juan 3:2",																												 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Juan 2:1",
+      "1 Juan 3:5",
+      "1 Juan 2:3"
+    ],
+    "correct": 0
+},
+  {
+    "question": "ADEMÁS os declaro, hermanos, el evangelio que os he predicado, el cual también recibisteis, en el cual estáis firmes.",
+    "questionNo": 214,
+    "options": [
+      "1 Corintios 15:1",																															 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 5:1",
+      "1 Corintios 1:5",
+      "1 Corintios 5:11"
+    ],
+    "correct": 0
+},
+  {
+    "question": "De cierto, de cierto os digo: El que cree en mí, las obras que yo hago también él las hará; y mayores que éstas hará; porque yo voy a mi Padre.",
+    "questionNo": 215,
+    "options": [
+      "Juan 4:12",																																		 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 14:12",
+      "Juan 2:4",
+      "Juan 2:14"
+    ],
+    "correct": 1
+},
+  {
+    "question": "SABE también esto, que en los postreros días vendrán tiempos peligrosos.",
+    "questionNo": 216,
+    "options": [
+      "2 Timothy 3:2",																																					 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Timothy 2:1",
+      "2 Timothy 1:3",
+      "2 Timothy 3:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "No me elegisteis vosotros a mí; sino que yo os elegí a vosotros; y os he puesto para que vayáis y llevéis fruto, y vuestro fruto permanezca; para que todo lo que pidiereis al Padre en mi nombre; él os lo dé.",
+    "questionNo": 217,
+    "options": [
+      "Juan 11:6",																																								 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 6:5",
+      "Juan 15:16",
+      "Juan 5:15"
+    ],
+    "correct": 2
+},
+  {
+    "question": "No tendrás dioses ajenos delante de mí.",
+    "questionNo": 218,
+    "options": [
+      "Éxodo 10:8",																																											 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Éxodo 20:3",
+      "Éxodo 14:2",
+      "Éxodo 12:6"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?",
+    "questionNo": 219,
+    "options": [
+      "Hechos 2:37",																																														 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 3:2",
+      "Hechos 1:7",
+      "Hechos 1:3"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Y Jesús decía: Padre, perdónalos, porque no saben lo que hacen. Y partiendo sus vestiduras, echaron suertes.",
+    "questionNo": 220,
+    "options": [
+      "Lucas 17:7",																																																	 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 4:12",
+      "Lucas 23:34",
+      "Lucas 3:13"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Así que, todas las cosas que queráis que los hombres os hagan, así haced vosotros a ellos; porque esto es la ley y los profetas.",
+    "questionNo": 221,
+    "options": [
+      "Mateo 2:7",																																																				 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 7:12",
+      "Mateo 3:9",
+      "Mateo 5:2"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Ninguno puede servir a dos señores; porque o aborrecerá al uno, y amará al otro; o apreciará al uno, y menospreciará al otro. No podéis servir a Dios y a las riquezas.",
+    "questionNo": 222,
+    "options": [
+      "Mateo 5:16",																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 2:4",
+      "Mateo 6:24",
+      "Mateo 2:6"
+    ],
+    "correct": 2
+},
+  {
+    "question": "MIRAD que no hagáis vuestras limosnas delante de los hombres, para ser vistos de ellos; de otra manera no tenéis recompensa de vuestro Padre que está en el cielo.",
+    "questionNo": 223,
+    "options": [
+      "Mateo 1:6",																																																										 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 3:7",
+      "Mateo 6:1",
+      "Mateo 2:4"
+    ],
+    "correct": 2
+},
+  {
+    "question": "PRINCIPIO del evangelio de Jesucristo, el Hijo de Dios.",
+    "questionNo": 224,
+    "options": [
+      "Marcos 1:5",																																																													 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 2:1",
+      "Marcos 1:2",
+      "Marcos 1:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Jacob y la casa de Judá.",
+    "questionNo": 225,
+    "options": [
+      "Jeremiah 13:3",																																																																 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Jeremiah 3:11",
+      "Jeremiah 11:3",
+      "Jeremiah 31:31"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Habéis condenado y dado muerte al justo; y él no os resiste.",
+    "questionNo": 226,
+    "options": [
+      "James 5:6",																																																																			 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "James 5:3",
+      "James 2:6",
+      "James 4:4"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Mi Dios, pues, suplirá todo lo que os falte, conforme a sus riquezas en gloria en Cristo Jesús.",
+    "questionNo": 227,
+    "options": [
+      "Filipenses 4:11",																																																																						 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Filipenses 1:9",
+      "Filipenses  4:19",
+      "Filipenses  4:9"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos.",
+    "questionNo": 228,
+    "options": [
+      "Mateo 2:18",																																																																									 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 18:20",
+      "Mateo 11:2",
+      "Mateo 8:20"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mas él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.",
+    "questionNo": 229,
+    "options": [
+      "James 1:6",																																																																												 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "James 3:9",
+      "James 4:2",
+      "James 4:6"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y estas señales seguirán a los que creen: En mi nombre echarán fuera demonios; hablarán nuevas lenguas.",
+    "questionNo": 230,
+    "options": [
+      "Marcos 6:11",																																																																															 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 16:17",
+      "Marcos 7:11",
+      "Marcos 11:16"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y vi el cielo abierto; y he aquí un caballo blanco, y el que estaba sentado sobre él, era llamado Fiel y Verdadero, y en justicia juzga y pelea.",
+    "questionNo": 231,
+    "options": [
+      "Apocalipsis 19:11",																																																																																		 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Apocalipsis 9:1",
+      "Apocalipsis 11:9",
+      "Apocalipsis 9:11"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Los cielos cuentan la gloria de Dios, Y el firmamento anuncia la obra de sus manos.",
+    "questionNo": 232,
+    "options": [
+      "Psalm 1:19",																																																																																					 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Psalm 11:19",
+      "Psalm 9:11",
+      "Psalm 19:1"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Mas a vosotros los que oís, digo: Amad a vuestros enemigos, haced bien a los que os aborrecen.",
+    "questionNo": 233,
+    "options": [
+      "Lucas 2:6",																																																																																								 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 6:27",
+      "Lucas 2:7",
+      "Lucas 5:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin.",
+    "questionNo": 234,
+    "options": [
+      "Mateo 22:14",																																																																																											 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 12:4",
+      "Mateo 4:12",
+      "Mateo 24:14"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Mas él respondiendo dijo: Escrito está: No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios.",
+    "questionNo": 235,
+    "options": [
+      "Mateo 4:4",																																																																																														 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 2:2",
+      "Mateo 3:42",
+      "Mateo 2:3"
+    ],
+    "correct": 0
+},
+  {
+    "question": "y que desde la niñez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación por la fe que es en Cristo Jesús.",
+    "questionNo": 236,
+    "options": [
+      "2 Timothy 1:2",																																																																																																	 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Timothy 2:7",
+      "2 Timothy 3:15",
+      "2 Timothy 3:5"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen.",
+    "questionNo": 237,
+    "options": [
+      "Mateo 4:5",																																																																																																				 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 4:2",
+      "Mateo 5:44",
+      "Mateo 3:15"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Porque en él habita corporalmente toda la plenitud de la Deidad.",
+    "questionNo": 238,
+    "options": [
+      "Colosenses 2:5",																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Colosenses 2:9",
+      "Colosenses 3:2",
+      "Colosenses 2:3"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mirad que nadie os engañe por medio de filosofías y vanas sutilezas, según las tradiciones de los hombres, conforme a los rudimentos del mundo, y no según Cristo.",
+    "questionNo": 239,
+    "options": [
+      "Colosenses 2:4",																																																																																																										 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Colosenses 1:8",
+      "Colosenses 1:2",
+      "Colosenses 2:8"
+    ],
+    "correct": 3
+},
+  {
+    "question": "HERMANOS, si alguno fuere tomado en alguna falta, vosotros que sois espirituales, restaurad al tal en espíritu de Mansedumbre, considerándote a ti mismo, no sea que tú también seas tentado.",
+    "questionNo": 240,
+    "options": [
+      "Gálatas 6:1",																																																																																																													 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Gálatas 3:7",
+      "Gálatas 5:6",
+      "Gálatas 4:2"
+    ],
+    "correct": 0
+},
+  {
+    "question": "A lo suyo vino, y los suyos no le recibieron.",
+    "questionNo": 241,
+    "options": [
+      "Juan 2:1",																																																																																																																 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 2:11",
+      "Juan 1:1",
+      "Juan 1:11"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor.",
+    "questionNo": 242,
+    "options": [
+      "Hebreos 2:14",																																																																																																																			 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hebreos 12:14",
+      "Hebreos 4:12",
+      "Hebreos 8:12"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y esta es la condenación; que la luz vino al mundo, y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas.",
+    "questionNo": 243,
+    "options": [
+      "Juan 1:9",																																																																																																																						 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 3:19",
+      "Juan 2:8",
+      "Juan 3:9"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente, y con todas tus fuerzas, este es el principal mandamiento.",
+    "questionNo": 244,
+    "options": [
+      "Marcos 12:30",																																																																																																																									 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 2:13",
+      "Marcos 10:4",
+      "Marcos 8:12"
+    ],
+    "correct": 0
+},
+  {
+    "question": "PARA todo hay sazón, y todo lo que se quiere debajo del cielo tiene su tiempo.",
+    "questionNo": 245,
+    "options": [
+      "Ecclesiastes 2:3",																																																																																																																												 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Ecclesiastes 2:13",
+      "Ecclesiastes 3:1",
+      "Ecclesiastes 1:3"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Y será que en los postreros días, dice Dios: Derramaré de mi Espíritu sobre toda carne; Y vuestros hijos y vuestras hijas profetizarán; Y vuestros jóvenes verán visiones; Y vuestros ancianos soñarán sueños.",
+    "questionNo": 246,
+    "options": [
+      "1 Peter 3:13",																																																																																																																															 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Peter 3:3",
+      "1 Peter 3:2",
+      "2 Peter 3:13"
+    ],
+    "correct": 3
+},
+  {
+    "question": "el cual, siendo en forma de Dios, no tuvo por usurpación el ser igual a Dios.",
+    "questionNo": 247,
+    "options": [
+      "Filipenses 3:2",																																																																																																																																		 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Filipenses 1:6",
+      "Filipenses 2:6",
+      "Filipenses 1:2"
+    ],
+    "correct": 2
+},
+  {
+    "question": "He aquí una virgen concebirá y dará a luz un hijo, y llamarás su nombre Emmanuel, que interpretado es: Dios con nosotros.",
+    "questionNo": 248,
+    "options": [
+      "Mateo 1:23",																																																																																																																																					 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 1:2",
+      "Mateo 2:3",
+      "Mateo 1:13"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Regocijaos en el Señor siempre: Otra vez digo: Regocijaos.",
+    "questionNo": 249,
+    "options": [
+      "Filipenses 1:9",																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Filipenses 4:4",
+      "Filipenses 3:8",
+      "Filipenses 2:4"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Mas él le dijo: Hombre, ¿quién me puso por juez o partidor sobre vosotros?",
+    "questionNo": 250,
+    "options": [
+      "Lucas 12:14",																																																																																																																																										 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 2:10",
+      "Lucas 8:2",
+      "Lucas 10:4"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Mas ahora, aparte de la ley, la justicia de Dios es manifestada, siendo testificada por la ley y los profetas.",
+    "questionNo": 251,
+    "options": [
+      "Romanos 3:12",																																																																																																																																													 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 1:13",
+      "Romanos 2:13",
+      "Romanos 3:21"
+    ],
+    "correct": 3
+},
+  {
+    "question": "En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros.",
+    "questionNo": 252,
+    "options": [
+      "Juan 3:5",																																																																																																																																																 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 12:15",
+      "Juan 13:35",
+      "Juan 5:10"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia y consolación de las Escrituras, tengamos esperanza.",
+    "questionNo": 253,
+    "options": [
+      "Romanos 15:4",																																																																																																																																																			 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 10:7",
+      "Romanos 3:4",
+      "Romanos 4:5"
+    ],
+    "correct": 0
+},
+  {
+    "question": "El que no ama, no conoce a Dios; porque Dios es amor.",
+    "questionNo": 254,
+    "options": [
+      "1 Juan 3:8",																																																																																																																																																						 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Juan 2:10",
+      "1 Juan 4:2",
+      "1 Juan 4:8"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y él es la propiciación por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo.",
+    "questionNo": 255,
+    "options": [
+      "1 Juan 1:1",																																																																																																																																																									 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Juan 2:2",
+      "1 Juan 1:2",
+      "1 Juan 2:1"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Adúlteros y adulteras, ¿no sabéis que la amistad del mundo es enemistad contra Dios? Cualquiera, pues, que quisiere ser amigo del mundo, se constituye enemigo de Dios.",
+    "questionNo": 256,
+    "options": [
+      "James 2:3",																																																																																																																																																												 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "James 5:1",
+      "James 3:4",
+      "James 4:4"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Porque el Señor mismo con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero.",
+    "questionNo": 257,
+    "options": [
+      "1 Tesalonicenses 3:12",																																																																																																																																																														 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Tesalonicenses 2:16",
+      "1 Tesalonicenses 4:16",
+      "1 Tesalonicenses 4:9"
+    ],
+    "correct": 2
+},
+  {
+    "question": "Porque la predicación de la cruz es locura a los que se pierden; pero a nosotros los salvos, es poder de Dios.",
+    "questionNo": 258,
+    "options": [
+      "1 Corintios 1:18",																																																																																																																																																																	 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 2:4",
+      "1 Corintios 3:2",
+      "1 Corintios 1:8"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Este es mi mandamiento: Que os améis unos a otros, como yo os he amado.",
+    "questionNo": 259,
+    "options": [
+      "Juan 2:12",																																																																																																																																																																				 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 12:5",
+      "Juan 5:12",
+      "Juan 15:12"
+    ],
+    "correct": 3
+},
+  {
+    "question": "SI yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo a ser como metal que resuena, o címbalo que retiñe.",
+    "questionNo": 260,
+    "options": [
+      "1 Corintios 3:9",																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 13:1",
+      "1 Corintios 11:3",
+      "1 Corintios 9:3"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Cuando uno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado con el mal, ni él tienta a nadie.",
+    "questionNo": 261,
+    "options": [
+      "Santiago 1:13",			 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 1:4",
+      "Santiago 2:1",
+      "Santiago 3:1"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Así que ya no sois extranjeros ni advenedizos, sino conciudadanos de los santos, y de la familia de Dios.",
+    "questionNo": 262,
+    "options": [
+      "Efesios 3:2",					 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Efesios 1:9",
+      "Efesios 2:19",
+      "Efesios 2:9"
+    ],
+    "correct": 2
+},
+  {
+    "question": "y yo les doy vida eterna, y no perecerán jamás, ni nadie las arrebatará de mi mano.",
+    "questionNo": 263,
+    "options": [
+      "Juan 9:8",								 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 10:28",
+      "Juan 5:18",
+      "Juan 4:9"
+    ],
+    "correct": 1
+},
+  {
+    "question": "Por esto, mis amados hermanos, todo hombre sea presto para oír, tardo para hablar, tardo para airarse.",
+    "questionNo": 264,
+    "options": [
+      "Santiago 3:12",											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 2:11",
+      "Santiago 1:11",
+      "Santiago 1:19"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Estoy maravillado de que tan pronto os hayáis traspasado del que os llamó a la gracia de Cristo, a otro evangelio.",
+    "questionNo": 265,
+    "options": [
+      "Gálatas 1:6",			 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Gálatas 2:6",
+      "Gálatas 3:2",
+      "Gálatas 1:3"
+    ],
+    "correct": 0
+},
+  {
+    "question": "Como todas las cosas que pertenecen a la vida y a la piedad nos han sido dadas por su divino poder, mediante el conocimiento de aquel que nos ha llamado a gloria y virtud.",
+    "questionNo": 266,
+    "options": [
+      "2 Peter 3:1",						 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Peter 2:3",
+      "2 Peter 3:2",
+      "2 Peter 1:3"
+    ],
+    "correct": 3
+},
+  {
+    "question": "Y ACONTECIÓ, que estando él junto al lago de Genezaret, la multitud se agolpaba sobre él para oír la palabra de Dios.",
+    "questionNo": 267,
+    "options": [
+      "Lucas 5:1",									 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 1:5",
+      "Lucas 2:3",
+      "Lucas 3:4"
+    ],
+    "correct": 0
+},
+  {
+    "question": "y él es la cabeza del cuerpo, que es la iglesia; él que es el principio, el primogénito de entre los muertos, para que en todo tenga la preeminencia.",
+    "questionNo": 268,
+    "options": [
+      "Colosenses 1:6",												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Colosenses 3:1",
+      "Colosenses 1:18",
+      "Colosenses 2:8"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Y faltando el vino, la madre de Jesús le dijo: No tienen vino.",
+    "questionNo": 269,
+    "options": [
+      "Juan 2:2",	 		 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 2:3",
+      "Juan 3:1",
+      "Juan 1:3"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo.",
+    "questionNo": 270,
+    "options": [
+      "1 Corintios 10:3",	 					 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 11:12",
+      "1 Corintios 2:2",
+      "1 Corintios 12:12"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Respondiendo Pedro y los apóstoles, dijeron: Es menester obedecer a Dios antes que a los hombres.",
+    "questionNo": 271,
+    "options": [
+      "Hechos 5:29",	 								 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 2:15",
+      "Hechos 3:9",
+      "Hechos 4:5"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Os digo: No, antes si no os arrepentís, todos pereceréis igualmente.",
+    "questionNo": 272,
+    "options": [
+      "Lucas 9:3",	 											 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 13:3",
+      "Lucas 3:1",
+      "Lucas 10:3"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Entonces dirá también a los de la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles.",
+    "questionNo": 273,
+    "options": [
+      "Mateo 15:9",	 														 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 10:13",
+      "Mateo 22:7",
+      "Mateo 25:41"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "EL LIBRO de la genealogía de Jesucristo, hijo de David, hijo de Abraham.",
+    "questionNo": 274,
+    "options": [
+      "Mateo 3:2",			 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 1:1",
+      "Mateo 2:1",
+      "Mateo 1:3"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Para que todos sean uno; como tú, oh Padre, en mí, y yo en ti, que también ellos sean uno en nosotros; para que el mundo crea que tú me enviaste.",
+    "questionNo": 275,
+    "options": [
+      "Juan 7:12",						 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 2:17",
+      "Juan 9:3",
+      "Juan 17:21"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "¿Esta alguno afligido entre vosotros? Haga oración. ¿Está alguno alegre? Cante salmos.",
+    "questionNo": 276,
+    "options": [
+      "Santiago 5:13",									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 2:5",
+      "Santiago 1:10",
+      "Santiago 3:5"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Bienaventurado el varón que soporta la tentación; porque cuando hubiere sido probado, recibirá la corona de vida, que el Señor ha prometido a los que le aman.",
+    "questionNo": 277,
+    "options": [
+      "Santiago 3:2",												 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 2:2",
+      "Santiago 1:12",
+      "Santiago 1:2"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Porque Cristo, cuando aún éramos débiles, a su tiempo murió por los impíos.",
+    "questionNo": 278,
+    "options": [
+      "Romanos 5:6",															 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 3:6",
+      "Romanos 4:6",
+      "Romanos 2:4"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Porque no nos ha dado Dios el espíritu de temor, sino de poder, y de amor, y de templanza.",
+    "questionNo": 279,
+    "options": [
+      "2 Timoteo 3:1",																		 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Timoteo 1:5",
+      "2 Timoteo 2:5",
+      "2 Timoteo 1:7"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Porque el reino de los cielos es como un hombre que yéndose lejos, llamó a sus siervos y les entregó sus bienes.",
+    "questionNo": 280,
+    "options": [
+      "Mateo 23:9",																					 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 25:14",
+      "Mateo 12:4",
+      "Mateo 9:10"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Tú crees que hay un Dios; bien haces; también los demonios creen y tiemblan.",
+    "questionNo": 281,
+    "options": [
+      "Santiago 2:19",																								 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 1:9",
+      "Santiago 2:2",
+      "Santiago 3:9"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Entonces los que se habían reunido le preguntaron, diciendo: Señor, ¿restaurarás el reino a Israel en este tiempo?",
+    "questionNo": 282,
+    "options": [
+      "Hechos 2:6",		 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 2:2",
+      "Hechos 1:6",
+      "Hechos 1:3"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Y enseñaba en una sinagoga en sábado.",
+    "questionNo": 283,
+    "options": [
+      "Lucas 13:10",					 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 3:13",
+      "Lucas 10:13",
+      "Lucas 9:3"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Si bien todos nosotros somos como suciedad, y todas nuestras justicias como trapo de inmundicia; y caímos todos nosotros como la hoja, y nuestras maldades nos llevaron como viento.",
+    "questionNo": 284,
+    "options": [
+      "Isaías  35:9",								 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Isaías  24:6",
+      "Isaías  50:5",
+      "Isaías  64:6"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Y le acechaban los escribas y los fariseos, si sanaría en sábado, para hallar de qué acusarle.",
+    "questionNo": 285,
+    "options": [
+      "Lucas 5:2",											 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 1:7",
+      "Lucas 6:7",
+      "Lucas 3:6"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.",
+    "questionNo": 286,
+    "options": [
+      "Genesis 1:31",														 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Genesis 2:12",
+      "Genesis 3:13",
+      "Genesis 1:30"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Y la multitud de los que habían creído era de un corazón y un alma: y ninguno decía ser suyo propio lo que poseía; sino que tenían todas las cosas en común.",
+    "questionNo": 287,
+    "options": [
+      "Hechos 3:13",																	 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 4:32",
+      "Hechos 3:23",
+      "Hechos 1:10"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Sepa, pues, ciertísimamente toda la casa de Israel, que a este Jesús que vosotros crucificasteis, Dios le ha hecho Señor y Cristo.",
+    "questionNo": 288,
+    "options": [
+      "Hechos 2:36",																				 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 2:13",
+      "Hechos 2:16",
+      "Hechos 2:1"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "No piense, pues, el tal hombre que recibirá cosa alguna del Señor.",
+    "questionNo": 289,
+    "options": [
+      "Santiago 1:3",																							 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 2:4",
+      "Santiago 2:7",
+      "Santiago 1:7"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, viviendo siempre para interceder por ellos.",
+    "questionNo": 290,
+    "options": [
+      "Hebreos 6:13",																										 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hebreos 7:25",
+      "Hebreos 3:8",
+      "Hebreos 2:11"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Y Jesús le respondió: El primer mandamiento de todos es: Oye, oh Israel, el Señor nuestro Dios, el Señor uno es.",
+    "questionNo": 291,
+    "options": [
+      "Marcos 9:12",																													 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 11:10",
+      "Marcos 12:29",
+      "Marcos 2:9"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Si alguno viene a mí, y no aborrece a su padre, y madre, y mujer, e hijos, y hermanos, y hermanas, y aun también su propia vida, no puede ser mi discípulo.",
+    "questionNo": 292,
+    "options": [
+      "Lucas 11:10",																																 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 14:26",
+      "Lucas 4:12",
+      "Lucas 9:9"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "BIENAVENTURADO el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado.",
+    "questionNo": 293,
+    "options": [
+      "Psalms 7:11",																																			 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Psalms 1:1",
+      "Psalms 2:10",
+      "Psalms 9:1"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Si permanecéis en mí, y mis palabras permanecen en vosotros, pediréis todo lo que quisiereis, y os será hecho.",
+    "questionNo": 294,
+    "options": [
+      "Juan 15:7",																																						 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 7:5",
+      "Juan 11:5",
+      "Juan 5:11"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Mas cuando Jesús resucitó por la mañana, el primer día de la semana, apareció primeramente a María Magdalena, de la cual había echado siete demonios.",
+    "questionNo": 295,
+    "options": [
+      "Marcos 6:12",																																									 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 11:6",
+      "Marcos 9:11",
+      "Marcos 16:9"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "PASADO el sábado, al amanecer del primer día de la semana, vinieron María Magdalena y la otra María a ver el sepulcro.",
+    "questionNo": 296,
+    "options": [
+      "Mateo 10:12",																																												 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 8:12",
+      "Mateo 28:1",
+      "Mateo 20:8"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "porque cinco maridos has tenido, y el que ahora tienes no es tu marido; esto has dicho con verdad.",
+    "questionNo": 297,
+    "options": [
+      "Juan 4:18",																																															 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 4:8",
+      "Juan 2:4",
+      "Juan 1:8"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Porque el Hijo del Hombre no vino para ser servido, sino para servir, y dar su vida en rescate por muchos.",
+    "questionNo": 298,
+    "options": [
+      "Marcos 2:15",																																																		 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 9:6",
+      "Marcos 10:45",
+      "Marcos 5:14"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "HERMANOS míos, no os hagáis muchos maestros, sabiendo que recibiremos mayor condenación.",
+    "questionNo": 299,
+    "options": [
+      "Santiago 2:3",																																																					 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 3:1",
+      "Santiago 1:2",
+      "Santiago 1:3"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "PERO un varón llamado Ananías, con Safira su esposa, vendió una heredad.",
+    "questionNo": 300,
+    "options": [
+      "Hechos 3:5",																																																								 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 4:2",
+      "Hechos 2:4",
+      "Hechos 5:1"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "No harás agravio en el juicio: no absolverás al pobre, ni favorecerás al poderoso; con justicia juzgarás a tu prójimo.",
+    "questionNo": 301,
+    "options": [
+      "Leviticus 19:18",																																																											 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Leviticus 10:10",
+      "Leviticus 13:3",
+      "Leviticus 9:8"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Y cuando Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, entregó el espíritu.",
+    "questionNo": 302,
+    "options": [
+      "Juan 15:19",																																																											 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 19:30",
+      "Juan 18:12",
+      "Juan 19:10"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Y CUANDO hubo pasado el sábado, María Magdalena, y María madre de Jacobo, y Salomé, compraron especias aromáticas, para venir a ungirle.",
+    "questionNo": 303,
+    "options": [
+      "Marcos 16:1",																																																														 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Marcos 12:6",
+      "Marcos 11:9",
+      "Marcos 15:4"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Y este es el mensaje que oímos de él, y os anunciamos; que Dios es luz, y en él no hay ningunas tinieblas.",
+    "questionNo": 304,
+    "options": [
+      "1 Juan 3:1",																																																																	 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Juan 2:3",
+      "1 Juan 1:4",
+      "1 Juan 1:5"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Y he aquí, el mismo día dos de ellos iban a una aldea llamada Emmaús, que estaba como a sesenta estadios de Jerusalem.",
+    "questionNo": 305,
+    "options": [
+      "Lucas 22:3",																																																																				 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 14:11",
+      "Lucas 24:13",
+      "Lucas 19:2"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Sed, pues, vosotros perfectos, como vuestro Padre que está en el cielo es perfecto.",
+    "questionNo": 306,
+    "options": [
+      "Mateo 2:10",																																																																							 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 3:12",
+      "Mateo 4:23",
+      "Mateo 5:48"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Mas nuestra ciudadanía está en el cielo, de donde también esperamos al Salvador, el Señor Jesucristo.",
+    "questionNo": 307,
+    "options": [
+      "Filipenses 2:12",																																																																									 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Filipenses 3:20",
+      "Filipenses 1:12",
+      "Filipenses 3:12"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es.",
+    "questionNo": 308,
+    "options": [
+      "Juan 4:5",																																																																									 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 3:6",
+      "Juan 2:8",
+      "Juan 3:4"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "No penséis que he venido para meter paz en la tierra; no he venido para meter paz, sino espada.",
+    "questionNo": 309,
+    "options": [
+      "Mateo 10:34",																																																																												 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 9:13",
+      "Mateo 4:10",
+      "Mateo 3:9"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas Jehová cargó en Él el pecado de todos nosotros.",
+    "questionNo": 310,
+    "options": [
+      "Isaías 39:9",																																																																															 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Isaías 43:12",
+      "Isaías 50:9",
+      "Isaías 53:6"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Porque apenas se levanta el sol con ardor, y la hierba se seca, y la flor se cae, y perece su hermosa apariencia; así también se marchitará el rico en todos sus caminos.",
+    "questionNo": 311,
+    "options": [
+      "Santiago 1:11",																																																																																 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Santiago 1:1",
+      "Santiago 2:5",
+      "Santiago 2:1"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Porque en él vivimos, y nos movemos, y somos; como también algunos de vuestros poetas dijeron: Porque también linaje suyo somos.",
+    "questionNo": 312,
+    "options": [
+      "Hechos 12:17",																																																																																			 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 8:12",
+      "Hechos 17:28",
+      "Hechos 7:14"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Cada uno según el don que ha recibido, minístrelo a los otros, como buenos administradores de la multiforme gracia de Dios.",
+    "questionNo": 313,
+    "options": [
+      "1 Pedro 5:2",																																																																																						 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Pedro 4:10",
+      "1 Pedro 3:9",
+      "1 Pedro 1:4"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Porque así también se ataviaban en el tiempo antiguo aquellas santas mujeres que esperaban en Dios, siendo sujetas a sus maridos.",
+    "questionNo": 314,
+    "options": [
+      "1 Pedro 1:5",																																																																																									 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Pedro 2:9",
+      "1 Pedro 3:3",
+      "1 Pedro 3:5"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Porque nuestra exhortación no fue de error ni de impureza, ni por engaño.",
+    "questionNo": 315,
+    "options": [
+      "1 Tesalonicenses 3:2",																																																																																											 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Tesalonicenses 1:2",
+      "1 Tesalonicenses 1:3",
+      "1 Tesalonicenses 2:3"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Nada hagáis por contienda o vanagloria; antes bien con humildad, estimándoos unos a otros como superiores a sí mismos.",
+    "questionNo": 316,
+    "options": [
+      "Filipenses 2:3",																																																																																														 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Filipenses 1:3",
+      "Filipenses 3:1",
+      "Filipenses 3:2"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "HIJOS, obedeced en el Señor a vuestros padres; porque esto es justo.",
+    "questionNo": 317,
+    "options": [
+      "Efesios 1:6",																																																																																																	 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Efesios 3:5",
+      "Efesios 6:1",
+      "Efesios 5:3"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dice Jehová.",
+    "questionNo": 318,
+    "options": [
+      "Isaías 8:5",																																																																																																				 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Isaías 55:8",
+      "Isaías 5:18",
+     "Isaías 18:5"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Porque yo testifico a cualquiera que oye las palabras de la profecía de este libro: Si alguno añadiere a estas cosas, Dios pondrá sobre él las plagas que están escritas en este libro.",
+    "questionNo": 319,
+    "options": [
+      "Apocalipsis 22:18",																																																																																																							 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Apocalipsis 14:12",
+      "Apocalipsis 12:18",
+      "Apocalipsis 20:8"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "el cual ha llegado hasta vosotros, así como a todo el mundo; y lleva fruto, como también en vosotros, desde el día que oísteis y conocisteis la gracia de Dios en verdad.",
+    "questionNo": 320,
+    "options": [
+      "Colosenses 1:3",																																																																																																										 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Colosenses 1:6",
+      "Colosenses 3:3",
+      "Colosenses 2:6"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
+    "questionNo": 321,
+    "options": [
+      "1 Pedro 3:3",																																																																																																							 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Pedro 1:6",
+      "1 Pedro 4:3",
+      "1 Pedro 5:7"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "EXHORTO, pues, ante todo, que se hagan súplicas, oraciones, intercesiones y acciones de gracias, por todos los hombres.",
+    "questionNo": 322,
+    "options": [
+      "1 Timoteo 1:2",																																																																																																										 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Timoteo 2:2",
+      "1 Timoteo 2:1",
+      "1 Timoteo 3:2"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "tocante a su Hijo Jesucristo, nuestro Señor, que fue hecho de la simiente de David según la carne.",
+    "questionNo": 323,
+    "options": [
+      "Hechos 4:3",																																																																																																																 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hechos 3:4",
+      "Hechos 6:5",
+      "Hechos 5:6"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Y levantándose los jóvenes, lo envolvieron, y sacándolo, lo sepultaron.",
+    "questionNo": 324,
+    "options": [
+      "1 Pedro 3:3",																																																																																																							 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Pedro 1:6",
+      "1 Pedro 4:3",
+      "1 Pedro 5:7"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "El espíritu es el que da vida; la carne para nada aprovecha; las palabras que yo os he hablado son espíritu y son vida.",
+    "questionNo": 325,
+    "options": [
+      "1 Timoteo 1:2",																																																																																																										 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Timoteo 2:2",
+      "1 Timoteo 2:1",
+      "1 Timoteo 3:2"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Y vosotros padres, no provoquéis a ira a vuestros hijos; sino criadlos en disciplina y amonestación del Señor.",
+    "questionNo": 326,
+    "options": [
+      "Efesios 4:3",																																																																																																																			 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Efesios 4:6",
+      "Efesios 3:4",
+      "Efesios 6:4"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Cristo nos redimió de la maldición de la ley, hecho por nosotros maldición (porque escrito está: Maldito todo aquel que es colgado en un madero).",
+    "questionNo": 327,
+    "options": [
+      "Gálatas 1:11",																																																																																																																			 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Gálatas 3:3",
+      "Gálatas 3:13",
+      "Gálatas 1:3"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Mas esto digo, hermanos; que la carne y la sangre no pueden heredar el reino de Dios; ni la corrupción hereda la incorrupción.",
+    "questionNo": 328,
+    "options": [
+      "1 Corintios 15:50",																																																																																																										 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 10:15",
+      "1 Corintios 14:9",
+      "1 Corintios 5:5"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Y PASANDO Jesús, vio a un hombre ciego de nacimiento.",
+    "questionNo": 329,
+    "options": [
+      "Juan 1:9",																																																																																																													 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Juan 9:1",
+      "Juan 3:9",
+      "Juan 9:3"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "Entonces Jesús le dijo: De cierto te digo: Hoy estarás conmigo en el paraíso.",
+    "questionNo": 330,
+    "options": [
+      "Lucas 23:43",																																																																																																																			 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Lucas 19:13",
+      "Lucas 13:9",
+      "Lucas 23:32"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Porque tú formaste mis riñones; Me cubriste en el vientre de mi madre.",
+    "questionNo": 331,
+    "options": [
+      "Psalms 109:3",																																																																																																																						 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Psalms 19:13",
+      "Psalms 13:19",
+      "Psalms 139:13"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Y bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré: y serán benditas en ti todas las familias de la tierra.",
+    "questionNo": 332,
+    "options": [
+      "Genesis 3:12",																																																																																																																									 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Genesis 4:12",
+      "Genesis 12:3",
+      "Genesis 12:4"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "y al conocimiento templanza, y a la templanza paciencia, y a la paciencia piedad.",
+    "questionNo": 333,
+    "options": [
+      "2 Pedro 2:3",																																																																																																																												 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Pedro 4:2",
+      "2 Pedro 6:1",
+      "2 Pedro 1:6"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "En esto conocemos el amor de Dios, en que él puso su vida por nosotros; también nosotros debemos poner nuestras vidas por los hermanos.",
+    "questionNo": 334,
+    "options": [
+      "1 Juan 2:1",																																																																																																																															 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Juan 3:16",
+      "1 Juan 3:13",
+      "1 Juan 1:6"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "PABLO, siervo de Jesucristo, llamado a ser apóstol, apartado para el evangelio de Dios.",
+    "questionNo": 335,
+    "options": [
+      "Romanos 1:1",																																																																																																																																		 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 2:1",
+      "Romanos 3:1",
+      "Romanos 1:2"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "No matarás.",
+    "questionNo": 336,
+    "options": [
+      "Éxodo 9:12",																																																																																																																																					 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Éxodo 13:2",
+      "Éxodo 20:13",
+      "Éxodo 19:3"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan.",
+    "questionNo": 337,
+    "options": [
+      "1 Corintios 11:23",																																																																																																																																								 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 1:13",
+      "1 Corintios 9:13",
+      "1 Corintios 2:12"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Cualquiera, pues, que oye estas mis palabras, y las hace, le compararé a un hombre prudente, que edificó su casa sobre la roca.",
+    "questionNo": 338,
+    "options": [
+      "Mateo 6:14",																																																																																																																																											 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 2:7",
+      "Mateo 4:2",
+      "Mateo 7:24"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "El Espíritu mismo da testimonio a nuestro espíritu que somos hijos de Dios.",
+    "questionNo": 339,
+    "options": [
+      "Romanos 4:9",																																																																																																																																														 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 8:16",
+      "Romanos 3:12",
+      "Romanos 1:10"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "PALABRA fiel: Si alguno anhela obispado, buena obra desea.",
+    "questionNo": 340,
+    "options": [
+      "1 Timoteo 1:2",																																																																																																																																																	 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Timoteo 1:3",
+      "1 Timoteo 2:1",
+      "1 Timoteo 3:1"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "siendo justificados gratuitamente por su gracia mediante la redención que es en Cristo Jesús.",
+    "questionNo": 341,
+    "options": [
+      "Romanos 3:24",																																																																																																																																																				 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Romanos 2:13",
+      "Romanos 3:12",
+      "Romanos 2:10"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Bienaventurados los pacificadores; porque ellos serán llamados hijos de Dios.",
+    "questionNo": 342,
+    "options": [
+      "Mateo 2:6",																																																																																																																																																							 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 3:9",
+      "Mateo 5:9",
+      "Mateo 5:6"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Venid luego, dice Jehová, y estemos a cuenta; si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana.",
+    "questionNo": 343,
+    "options": [
+      "Isaías 1:8",																																																																																																																																																										 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Isaías 2:3",
+      "Isaías 1:18",
+      "Isaías 2:10"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Honroso es en todo el matrimonio, y el lecho sin mancilla; mas a los fornicarios y a los adúlteros juzgará Dios.",
+    "questionNo": 344,
+    "options": [
+      "Hebreos 13:4",																																																																																																																																																													 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Hebreos 9:9",
+      "Hebreos 11:1",
+      "Hebreos 12:2"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Oísteis que fue dicho: Amarás a tu prójimo, y aborrecerás a tu enemigo.",
+    "questionNo": 345,
+    "options": [
+      "Mateo 4:14",																																																																																																																																																																 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Mateo 5:43",
+      "Mateo 9:7",
+      "Mateo 2:14"
+    ],
+    "correct": 1
+},  
+  {
+    "question": "El principio de la sabiduría es el temor de Jehová: Los insensatos desprecian la sabiduría y la enseñanza.",
+    "questionNo": 346,
+    "options": [
+      "Proverbs 1:7",																																																																																																																																																																			 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Proverbs 3:6",
+      "Proverbs 4:5",
+      "Proverbs 2:7"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Honra a tu padre y a tu madre, porque tus días se alarguen en la tierra que Jehová tu Dios te da.",
+    "questionNo": 347,
+    "options": [
+      "Éxodo 12:2",																																																																																																																																																																						 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Éxodo 12:20",
+      "Éxodo 20:11",
+      "Éxodo 20:12"
+    ],
+    "correct": 3
+},  
+  {
+    "question": "Y llamó Dios a la expansión Cielos. Y fue la tarde y la mañana el día segundo.",
+    "questionNo": 348,
+    "options": [
+      "Genesis 8:1",																																																																																																																																																																									 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "Genesis 7:2",
+      "Genesis 1:8",
+      "Genesis 8:3"
+    ],
+    "correct": 2
+},  
+  {
+    "question": "Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo.",
+    "questionNo": 349,
+    "options": [
+      "2 Pedro 1:11",																																																																																																																																																																												 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "2 Pedro 3:5",
+      "2 Pedro 2:1",
+      "2 Pedro 1:1"
+    ],
+    "correct": 0
+},  
+  {
+    "question": "Si pues coméis, o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios.",
+    "questionNo": 350,
+    "options": [
+      "1 Corintios 10:3",																																																																																																																																																																															 																									 															 												 											 																																																																																																																																																																							 			 																			 					 		 		 																																																																																																																																																																																																																																																																																				 						
+      "1 Corintios 10:31",
+      "1 Corintios 12:10",
+      "1 Corintios 13:1"
+    ],
+    "correct": 1
   }
 ]

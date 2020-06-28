@@ -12,7 +12,8 @@ class EndPlaying extends StatelessWidget {
   void setDataLocal() async {
     final SharedPreferences prefs = await SharedPreferences.getInstance();
     prefs.setString('questionNo', null);
-    prefs.setString('correctAns', "0");
+    prefs.setString('correctAns', null);
+    prefs.setString('lang', null);
   }
 
   @override
@@ -20,6 +21,7 @@ class EndPlaying extends StatelessWidget {
     setDataLocal();
     int correctQuestion = arguments.correct;
     int totalQuestion = arguments.total;
+    String lang=arguments.lang;
     return WillPopScope(
       onWillPop: () async => false,
       child: Scaffold(
@@ -64,7 +66,7 @@ class EndPlaying extends StatelessWidget {
                     ),
                   ]),
                   Column(children: <Widget>[
-                    Text("CORRECT ANSWERS",
+                    Text((lang=="0")?"CORRECT ANSWERS":"RESPUESTA CORRECTA",
                         style: TextStyle(
                             fontFamily: 'BebasNeue',
                             fontSize: 14,
@@ -91,7 +93,7 @@ class EndPlaying extends StatelessWidget {
                         exit(0);
                       },
                       elevation: 0.0,
-                      child: Text("Quit",
+                      child: Text((lang=="0")?"QUIT":"DEJAR",
                           style: TextStyle(
                               fontFamily: 'BebasNeue',
                               fontSize: 18,
@@ -104,9 +106,9 @@ class EndPlaying extends StatelessWidget {
                           right: 24, left: 24, bottom: 20, top: 25),
                       child: GlobePrimaryButton(
                         onPressed: () {
-                          Navigator.pushNamed(context, '/questionScreen');
+                          Navigator.pushNamed(context, '/');
                         },
-                        buttonLabel: "START PLAYING",
+                        buttonLabel:(lang=="0")?"START PLAYING AGAIN":"EMPEZAR DE NUEVO",
                         bg: Color(0xfff1ad62),
                       ),
                     ),

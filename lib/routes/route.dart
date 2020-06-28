@@ -13,8 +13,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
      var lang= settings.arguments;
       return MaterialPageRoute(builder: (context) => StartPlaying(arguments:lang));
     case QuestionRoute:
-    var lang= settings.arguments;
-      return MaterialPageRoute(builder: (context) => QuestionScreen(arguments:lang));
+    var lang1= settings.arguments;
+      return MaterialPageRoute(builder: (context) => QuestionScreen(arguments:lang1));
     case EndPlayingRoute:
     var data = settings.arguments;
       return MaterialPageRoute(builder: (context) => EndPlaying(arguments: data));

@@ -34,6 +34,7 @@ class GlobeSecondaryButton extends StatelessWidget {
                     fontFamily: 'BebasNeue',
                     fontSize: 14,
                     color: color,
+                    letterSpacing: 3,
                     fontWeight: FontWeight.bold),
               ),
             )));

@@ -29,6 +29,7 @@ class GlobePrimaryButton extends StatelessWidget {
                     fontFamily: 'BebasNeue',
                     fontSize: 18,
                     color: Color(0xff212121),
+                     letterSpacing: 3,
                     fontWeight: FontWeight.bold),
               ),
             )));
