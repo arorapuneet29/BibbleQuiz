@@ -1,4 +1,4 @@
-package com.example.Bquiz
+package com.Bquiz
 
 import io.flutter.embedding.android.FlutterActivity
 
